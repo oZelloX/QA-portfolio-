@@ -1,8 +1,8 @@
 Test Case ID: TC_UI_001  
 Title: Verify login functionality with valid credentials  
 Module: Login  
-Designed by: [Your Name]  
-Date: [Date]  
+Designed by: Aleksandrs Goldobenkovs
+Date: 09.06.2025
 Preconditions: User is on the login page  
 
 Test Steps:  
