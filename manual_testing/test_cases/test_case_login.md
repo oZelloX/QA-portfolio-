@@ -1,18 +1,21 @@
-Test Case ID: TC_UI_001  
-Title: Verify login functionality with valid credentials  
-Module: Login  
-Designed by: Aleksandrs Goldobenkovs  
-Date: 09.06.2025  
-Preconditions: User is on the login page    
+# Test Case: Login with valid credentials
 
-Test Steps:  
-1. Enter a valid username  
-2. Enter a valid password  
-3. Click the "Login" button  
+**Module:** Login  
+**Title:** Verify that a user can log in with valid credentials  
+**Created by:** oZelloX  
+**Date:** 2025-06-09  
+**Status:** Draft  
 
-Expected Result:  
-User is redirected to the dashboard/home page  
+---
 
-Postconditions:  
-User is logged in  
+## Preconditions
+- User is registered
+- User is on the login page
 
+## Test Steps
+1. Enter valid username
+2. Enter valid password
+3. Click the "Login" button
+
+## Expected Result
+- User is redirected to the dashboard page
