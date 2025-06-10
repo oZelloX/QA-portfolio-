@@ -1,13 +1,10 @@
-# QA Checklists
+# Functional Checklists
 
-This folder contains manual checklists used for verifying key UI functionality.  
-Each checklist follows a consistent format and targets a specific feature/module.
+This folder contains functional checklists created as part of the QA learning path.  
+Each checklist focuses on a specific feature and outlines key test points.
 
 ## Contents
-
-- Login:
-  - [Login functionality](checklist_login.md)
-- Password Recovery:
-  - [Password recovery process](checklist_password_recovery.md)
-
-
+- [Login Functionality](checklist_login_functionality.md)
+- [Logout Functionality](checklist_logout_functionality.md)
+- [Forgot Password](checklist_forgot_password.md)
+- [Password Recovery](checklist_password_recovery.md)
