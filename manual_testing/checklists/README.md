@@ -5,6 +5,6 @@ Each checklist focuses on a specific feature and outlines key test points.
 
 ## Contents
 - [Login Functionality](checklist_login_functionality.md)
-- [Logout Functionality](checklist_logout_functionality.md)
+- [Logout Functionality](checklist_logout.md)
 - [Forgot Password](checklist_forgot_password.md)
 - [Password Recovery](checklist_password_recovery.md)
