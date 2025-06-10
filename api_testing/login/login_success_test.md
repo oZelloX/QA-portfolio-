@@ -1,52 +1,30 @@
 # Successful Login – API Test
 
-**Test Case ID**: API-LOGIN-001  
-**Module**: Login  
-**Reported by**: oZelloX  
-**Date**: 2025-06-10  
-**Environment**: https://reqres.in/api/login, Postman  
+**Method**: POST  
+**Endpoint**: `https://reqres.in/api/login`  
+**Description**: Verifies that a user can log in with valid credentials.
 
----
-
-## Use Case  
-Проверка, что пользователь может успешно войти в систему с валидными учетными данными через API.
-
----
-
-## Request
-
-**Method**: `POST`  
-**URL**: `https://reqres.in/api/login`  
-**Headers**: `Content-Type: application/json`  
-**Body** (JSON):
+## Request Payload
 ```json
 {
   "email": "eve.holt@reqres.in",
   "password": "cityslicka"
 }
-Expected Result
+```
 
-Ответ от API:
-
-Status Code: 200 OK
-Response Body:
+## Expected Result
+- Status code: **200 OK**
+- Response body contains a token:
+```json
 {
   "token": "QpwL5tke4Pnpja7X4"
 }
-Actual Result
+```
 
-Успешный ответ с токеном получен.
-Status: 200 OK
-Response:
+## Actual Result
+- Status code: **200 OK**
+- Token received successfully.
 
-{
-  "token": "QpwL5tke4Pnpja7X4"
-}
-Notes
+## Notes
+This confirms the login endpoint works correctly with valid credentials.
 
-Токен — это строка, которая выдается сервером после успешной авторизации.
-Он используется для дальнейших запросов от имени пользователя без повторного ввода логина и пароля.
-Обычно токен передаётся в заголовке Authorization: Bearer <token> при следующих API-запросах.
-
-Сохраняешь это в `api_testing/login_success_test.md`.  
-Если надо — сделаю аналогично ещё.
