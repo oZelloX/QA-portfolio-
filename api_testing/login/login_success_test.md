@@ -1,12 +1,20 @@
-# API Test Case: Successful Login
+# API Test: Successful Login
 
 **Method**: POST  
 **Endpoint**: `https://reqres.in/api/login`  
-**Purpose**: Verify that the system returns a valid token upon successful login with correct credentials.
+**Description**: This test verifies that a user can successfully log in using valid credentials.
 
 ---
 
 ## Request
 
-**Headers:**
+**Headers**:
+- Content-Type: `application/json`
+
+**Body (JSON)**:
+```json
+{
+  "email": "eve.holt@reqres.in",
+  "password": "cityslicka"
+}
 
