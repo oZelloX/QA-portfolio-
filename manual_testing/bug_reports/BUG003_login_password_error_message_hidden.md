@@ -2,7 +2,7 @@
 **Module**: Login  
 **Reported by**: oZelloX  
 **Date**: 2025-06-09  
-**Environment**: Safari, macOS 15.5
+**Environment**: Safari 18.5, macOS 15.5
 
 ## Description  
 Displayed error message is partially hidden behind the password input field.
