@@ -3,13 +3,15 @@
 **Method**: GET  
 **Endpoint**: `https://reqres.in/api/users?page=2`  
 **Description**: Verifies that the API returns a paginated list of users with the correct structure.  
-**Request Payload**: none  
-**Expected Result**:  
+
+## Request Payload
+none
+
+## Expected Result  
 - Status code: **200 OK**  
 - Response body contains page information and a list of 6 user objects with fields: id, email, first_name, last_name, avatar  
-**Actual Result**:  
-- Status code: **200 OK**  
-- Response body:
+  
+```json
 {
   "page": 2,
   "per_page": 6,
@@ -63,5 +65,10 @@
     "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
     "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
   }
-}  
-**Notes**: This confirms that the user listing endpoint returns valid paginated user data with the expected structure.
+}
+```
+## Actual Result
+
+- Status code: **200 OK**
+  ## Notes**:
+  This confirms that the user listing endpoint returns valid paginated user data with the expected structure.
