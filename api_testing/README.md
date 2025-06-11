@@ -17,13 +17,4 @@ Exported Postman collection with all tested requests.
 Markdown reports describing each test case with request/response details.
 
 
-## Contents
-
-- **Login**
-  - [Successful login](login/login_success_test.md)
-  - [Unsuccessful login](login/login_unsuccessful_test.md)
-
-- **User**
-  - [Get user list](users/get_users_test.md)
-  - [Create user](users/create_user_test.md)
 
