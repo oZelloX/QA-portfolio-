@@ -1,7 +1,24 @@
 # API Testing Practice
 
-This project contains manual API tests created using Postman.  
-Each scenario includes request details, expected results, and actual responses.
+This folder contains my practical exercises and documentation related to API testing as part of my QA learning process.  
+The tests are performed manually using Postman and documented in Markdown format.
+
+📂 Structure
+
+login/  
+Successful and unsuccessful login tests.
+
+users/  
+Tests related to user listing, user creation, and user detail endpoints.
+
+postman_collection/  
+Exported Postman collection with all tested requests.
+
+reports/  
+Markdown reports describing each test case with request/response details.
+
+README.md  
+This file.
 
 ## Contents
 
