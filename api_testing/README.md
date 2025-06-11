@@ -2,7 +2,7 @@
 
 This folder contains my practical exercises and documentation related to API testing as part of my QA learning process.  
 
-📂 Structure
+## 📂 Structure
 
 - **login/**  
 Successful and unsuccessful login tests.
