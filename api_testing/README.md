@@ -1,6 +1,6 @@
 # API Testing Practice
 
-This project contains manual API tests created using Postman and documented in Markdown.  
+This project contains manual API tests created using Postman.  
 Each scenario includes request details, expected results, and actual responses.
 
 ## Contents
