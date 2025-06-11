@@ -13,13 +13,8 @@
 ```
 
 ## Expected Result
-- Status code: **200 OK**
-- Response body contains a token:
-```json
-{
-  "token": "QpwL5tke4Pnpja7X4"
-}
-```
+- Status code: **200 OK**  
+- Response body contains a token field of type string  
 
 ## Actual Result
 - Status code: **200 OK**
