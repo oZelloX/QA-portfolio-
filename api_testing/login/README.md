@@ -1,4 +1,4 @@
-This folder contains tests related to login functionality using the Reqres API.  
+This folder contains tests related to login functionality for various APIs.  
 It includes both successful and unsuccessful login scenarios tested via POST requests to the /login endpoint.
 
 📂 Structure
@@ -11,4 +11,3 @@ Test for unsuccessful login when required fields are missing.
 
 README.md  
 This file.
-
