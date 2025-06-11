@@ -10,7 +10,7 @@ none
 ## Expected Result  
 - Status code: **200 OK**  
 - Response body contains page information and a list of 6 user objects with fields: id, email, first_name, last_name, avatar
-- 
+
 ## Actual Result
 - Status code: **200 OK**  
 - Response body:
