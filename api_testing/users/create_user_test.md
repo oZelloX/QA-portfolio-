@@ -27,6 +27,15 @@
  
 ## Actual Result  
 - Status code: **201 Created**  
-- ID and createdAt fields were generated and returned as expected.  
+- Response body:
+```json
+{
+  "name": "morpheus",
+  "job": "leader",
+  "id": "938",
+  "createdAt": "2025-06-11T09:15:00.000Z"
+}
+```
+
 ## Notes
 This confirms the create user endpoint responds correctly with dynamically generated data.
