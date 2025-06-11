@@ -1,13 +1,12 @@
 This folder contains tests related to login functionality for various APIs.  
-It includes both successful and unsuccessful login scenarios tested via POST requests to the /login endpoint.
 
-📂 Structure
 
-login_successful.md  
-Test for successful login with valid credentials.
+## Contents
 
-login_unsuccessful.md  
-Test for unsuccessful login when required fields are missing.
+- **Login**
+  - [Successful login](login/login_success_test.md)
+  - [Unsuccessful login](login/login_unsuccessful_test.md)
 
-README.md  
-This file.
+- **User**
+  - [Get user list](users/get_users_test.md)
+  - [Create user](users/create_user_test.md)
