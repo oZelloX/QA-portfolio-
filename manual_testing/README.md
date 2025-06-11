@@ -1,3 +1,6 @@
+# Manual testing
+
+
 This folder contains my manual testing work including test cases, bug reports, checklists created during the learning process.  
 
 ## 📂 Structure
