@@ -19,11 +19,11 @@ Markdown reports describing each test case with request/response details.
 
 ## Contents
 
-- **Login API**
+- **Login**
   - [Successful login](login/login_success_test.md)
   - [Unsuccessful login](login/login_unsuccessful_test.md)
 
-- **User API**
+- **User**
   - [Get user list](users/get_users_test.md)
   - [Create user](users/create_user_test.md)
 
