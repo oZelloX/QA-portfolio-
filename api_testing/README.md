@@ -5,16 +5,16 @@ The tests are performed manually using Postman and documented in Markdown format
 
 📂 Structure
 
-**login/**  
+-**login/**  
 Successful and unsuccessful login tests.
 
-**users/**  
+-**users/**  
 Tests related to user listing, user creation, and user detail endpoints.
 
-**postman_collection/**  
+-**postman_collection/**  
 Exported Postman collection with all tested requests.
 
-**reports/**  
+-**reports/**  
 Markdown reports describing each test case with request/response details.
 
 
