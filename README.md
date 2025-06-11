@@ -17,7 +17,7 @@ I’m currently focused on manual testing, functional testing, bug reporting, an
 - **theory_notes/**  
   Notes, terminology, study materials, and QA checklists.
 
-- **archive/**
+- **archive/**  
   Old tasks, drafts, or completed exercises that are no longer actively maintained but kept for reference.
 
 ## 📌 About Me
