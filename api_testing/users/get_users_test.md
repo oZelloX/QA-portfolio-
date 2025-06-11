@@ -12,8 +12,8 @@ none
 - Response body contains page information and a list of 6 user objects with fields:
 - id
 - email
-- first name
-- last name
+- first_name
+- last_name
 - avatar
 
 ## Actual Result
