@@ -70,5 +70,5 @@ none
 ## Actual Result
 
 - Status code: **200 OK**
-  ## Notes**:
+  ## Notes
   This confirms that the user listing endpoint returns valid paginated user data with the expected structure.
