@@ -15,10 +15,13 @@
 ## Expected Result  
 - Status code: **201 Created**  
 - Response body contains:  
-  - name: "morpheus"  
-  - job: "leader"  
-  - id: string (auto-generated)  
-  - createdAt: string (timestamp)
+  {
+  "name": "morpheus",
+  "job": "leader",
+  "id": "<string>",
+  "createdAt": "<timestamp>"
+}
+
 
  
 ## Actual Result  
