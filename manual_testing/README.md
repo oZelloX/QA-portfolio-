@@ -3,18 +3,14 @@ The focus is on practicing functional testing, UI testing, exploratory testing, 
 
 📂 Structure
 
-test_cases/  
+- **test_cases/**  
 Examples of test cases for different types of functionality.
 
-bug_reports/  
+- **bug_reports/**  
 Bug descriptions with steps to reproduce, expected vs actual result, and severity.
 
-checklists/  
+- **checklists/**  
 Basic checklists for UI, regression, smoke testing, etc.
 
-docs/  
-Supporting documentation and notes created during testing.
 
-README.md  
-This file.
 
