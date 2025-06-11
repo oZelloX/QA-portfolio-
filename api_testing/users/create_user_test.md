@@ -1,18 +1,23 @@
-On 2025-06-11, I tested the POST /users endpoint at https://reqres.in/api/users to verify that a user can be created successfully when valid input is provided. The method used was POST and the request body was:
+# Create User – API Test
 
+**Method**: POST  
+**Endpoint**: https://reqres.in/api/users  
+**Description**: Verifies that a user can be created successfully with valid input data.  
+**Request Payload**:  
 {
   "name": "morpheus",
   "job": "leader"
-}
-
-The expected result was a 201 Created status code and a response body containing the same name and job along with a generated id and createdAt timestamp. The actual response returned status 201 Created, and the following body:
-
+}  
+**Expected Result**:  
+- Status code: 201 Created  
+- Response body contains:  
 {
   "name": "morpheus",
   "job": "leader",
-  "id": "938",
+  "id": "123",
   "createdAt": "2025-06-11T09:15:00.000Z"
-}
-
-The ID and timestamp were generated dynamically as expected. This confirms that the endpoint behaves correctly when provided with valid data.
-
+}  
+**Actual Result**:  
+- Status code: 201 Created  
+- ID and createdAt fields were generated and returned as expected.  
+**Notes**: This confirms the create user endpoint responds correctly with dynamically generated data.
