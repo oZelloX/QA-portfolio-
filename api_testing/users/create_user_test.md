@@ -1,7 +1,7 @@
 # Create User – API Test
 
 **Method**: POST  
-**Endpoint**: https://reqres.in/api/users  
+**Endpoint**: `https://reqres.in/api/users`  
 **Description**: Verifies that a user can be created successfully with valid input data.  
 
 ## Request Payload
