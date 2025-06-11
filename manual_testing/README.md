@@ -1,7 +1,7 @@
 This folder contains my manual testing work including test cases, bug reports, checklists, and documentation created during the learning process.  
 The focus is on practicing functional testing, UI testing, exploratory testing, and documenting issues clearly and systematically.
 
-📂 Structure
+## 📂 Structure
 
 - **test_cases/**  
 Examples of test cases for different types of functionality.
