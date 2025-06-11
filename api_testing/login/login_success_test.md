@@ -24,6 +24,11 @@
 ## Actual Result
 - Status code: **200 OK**
 - Token received successfully.
+```json
+{
+  "token": "QpwL5tke4Pnpja7X4"
+}
+```
 
 ## Notes
 This confirms the login endpoint works correctly with valid credentials.
