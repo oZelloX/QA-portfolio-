@@ -1,5 +1,4 @@
-This folder contains my manual testing work including test cases, bug reports, checklists, and documentation created during the learning process.  
-The focus is on practicing functional testing, UI testing, exploratory testing, and documenting issues clearly and systematically.
+This folder contains my manual testing work including test cases, bug reports, checklists created during the learning process.  
 
 ## 📂 Structure
 
