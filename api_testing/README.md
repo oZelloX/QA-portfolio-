@@ -1,7 +1,6 @@
 # API Testing Practice
 
 This folder contains my practical exercises and documentation related to API testing as part of my QA learning process.  
-The tests are performed manually using Postman and documented in Markdown format.
 
 📂 Structure
 
