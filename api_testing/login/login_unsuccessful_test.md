@@ -20,7 +20,7 @@
 }
 ```
 
-##Actual Result  
+## Actual Result  
 - Status code: **400 Bad Request**  
 - Response body:
 ```json 
@@ -29,6 +29,6 @@
 }
 ```
 
-##Notes
-The API correctly returns an error message in JSON format when the password field is missing.
+## Notes
+This confirms the login endpoint returns the correct error response when credentials are incomplete.
 
