@@ -14,14 +14,15 @@
 
 ## Expected Result  
 - Status code: **201 Created**  
-- Response body contains:  
+- Response body contains:
+```json 
   {
   "name": "morpheus",
   "job": "leader",
   "id": "<string>",
   "createdAt": "<timestamp>"
 }
-
+```
 
  
 ## Actual Result  
