@@ -36,7 +36,7 @@ pm.test("Response contains user data", function () {
 - Status code: **200 OK**
 - Responce Body
 ```json
-- {
+{
   "data": {
     "id": 2,
     "email": "janet.weaver@reqres.in",
