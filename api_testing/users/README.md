@@ -5,7 +5,7 @@ Tests are divided into manual cases and a Postman-based automated script.
 
 ---
 
-### Manual Tests
+## Manual Tests
 
 - [Get User List](get_users_test.md)
 - [Get User – Valid ID](get_user_valid.md)
@@ -17,6 +17,6 @@ Tests are divided into manual cases and a Postman-based automated script.
 
 ---
 
-### Automated Tests (Postman)
+## Automated Tests (Postman)
 
 - [Get User by ID - Script Test](get_user_by_id_test.md)
