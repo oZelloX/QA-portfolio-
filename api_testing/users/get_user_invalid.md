@@ -1,9 +1,3 @@
-
----
-
-## 📄 `get_user_invalid.md`
-
-```markdown
 # Get User by ID – Invalid Case
 
 **Method**: GET  
