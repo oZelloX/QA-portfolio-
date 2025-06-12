@@ -14,7 +14,7 @@ No request payload required.
   - name
   - year
   - color
-  - pantone_value
+  - pantone value
 
 ## Actual Result  
 - Status code: **200 OK**  
