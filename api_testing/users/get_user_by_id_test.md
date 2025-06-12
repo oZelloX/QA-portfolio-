@@ -32,6 +32,25 @@ pm.test("Response contains user data", function () {
 });
 ```
 
+## Actual Result
+- Status code: **200 OK**
+- Responce Body
+```json
+- {
+  "data": {
+    "id": 2,
+    "email": "janet.weaver@reqres.in",
+    "first_name": "Janet",
+    "last_name": "Weaver",
+    "avatar": "https://reqres.in/img/faces/2-image.jpg"
+  },
+  "support": {
+    "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+    "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+  }
+}
+```
+
 ## Notes
 
 This test verifies that the API returns a valid response for a specific user and includes all expected fields. The assertions are automated and run in the Postman test tab after sending the request.
