@@ -11,4 +11,4 @@ Each test validates specific endpoints such as user retrieval, creation, or dele
 - [Create user](create_user_test.md)
 - [Delete user](delete_user.md)
 - [Get user by ID](get_user_by_id_test.md)
-- [Update user](update_user_test)
+- [Update user](update_user_test.md)
