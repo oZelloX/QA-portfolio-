@@ -1,9 +1,9 @@
 # Users – API Tests
 
-This folder contains tests related to user functionality for various APIs.  
-Each test validates specific endpoints such as user retrieval, creation, or deletion.
+This folder contains API tests related to user functionality, including user retrieval, creation, update, and deletion.  
+Tests are divided into manual cases and a Postman-based automated script.
 
-## Contents
+---
 
 ### Manual Tests
 
@@ -14,6 +14,8 @@ Each test validates specific endpoints such as user retrieval, creation, or dele
 - [Delete User](delete_user.md)
 - [Update User](update_user_test.md)
 - [Partial Update User](patch_user_test.md)
+
+---
 
 ### Automated Tests (Postman)
 
