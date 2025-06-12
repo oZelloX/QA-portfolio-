@@ -16,3 +16,8 @@ No request payload required.
 - Response body:
 ```json
 {}
+```
+
+## Notes
+
+This confirms the API handles non-existent user IDs gracefully with proper 404 response.
