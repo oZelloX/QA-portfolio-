@@ -15,7 +15,6 @@ No request payload required.
   - year
   - color
   - pantone_value
-  - and a support block
 
 ## Actual Result  
 - Status code: **200 OK**  
