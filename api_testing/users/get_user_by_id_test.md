@@ -30,3 +30,8 @@ pm.test("Response contains user data", function () {
     pm.expect(jsonData.data).to.have.property("last_name");
     pm.expect(jsonData.data).to.have.property("avatar");
 });
+```
+
+## Notes
+
+This test verifies that the API returns a valid response for a specific user and includes all expected fields. The assertions are automated and run in the Postman test tab after sending the request.
