@@ -10,7 +10,11 @@ No request payload required.
 ## Expected Result  
 - Status code: **200 OK**  
 - Response body includes valid user object with fields:
-  - id, name, year, color, pantone_value
+  - id
+  - name
+  - year
+  - color
+  - pantone_value
   - and a support block
 
 ## Actual Result  
