@@ -30,3 +30,7 @@ No request payload required.
     "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
   }
 }
+
+
+## Notes
+This confirms that the API correctly returns a user object for a valid ID.
