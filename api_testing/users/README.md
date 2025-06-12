@@ -5,8 +5,8 @@ Each test validates specific endpoints such as user retrieval, creation, or dele
 
 ## Contents
 
-- [Get user list](get_user_list.md)
+- [Get user list](get_users_test.md)
 - [Get user – valid ID](get_user_valid.md)
 - [Get user – invalid ID](get_user_invalid.md)
-- [Create user](../post_requests/create_user.md)
+- [Create user](create_user_test.md)
 
