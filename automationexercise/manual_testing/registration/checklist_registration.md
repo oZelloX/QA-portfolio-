@@ -1,5 +1,6 @@
 ## Checklist registration
 
+
  ### Navigation Buttons
    - Presence of all required buttons
    - Correct functioning of navigation buttons
