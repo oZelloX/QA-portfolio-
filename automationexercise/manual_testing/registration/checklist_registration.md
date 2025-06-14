@@ -1,10 +1,10 @@
 # Checklist registration
 
- ## Navigation Buttons
+ ### Navigation Buttons
    - Presence of all required buttons
    - Correct functioning of navigation buttons
 
- ## User Input
+ ### User Input
    - Presence of all mandatory input fields
    - Validity of input field entries
    - Handling of empty and incorrect inputs
