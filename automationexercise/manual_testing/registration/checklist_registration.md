@@ -1,3 +1,5 @@
+# Checklist registration
+
 ## Navigation Buttons
  - Verify the presence of all necessary buttons (Register, Back to login, Submit, etc.).
  - Verify button states (enabled/disabled) with empty and filled fields.
