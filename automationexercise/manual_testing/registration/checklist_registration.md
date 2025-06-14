@@ -1,45 +1,40 @@
 # Checklist registration
 
  ## Navigation Buttons
-   - Verify the presence of all necessary buttons (Register, Back to login, Submit, etc.).
-   - Verify button states (enabled/disabled) with empty and filled fields.
-   - Verify navigation via "Back to login" button.
+   - Presence of all required buttons
+   - Correct functioning of navigation buttons
 
  ## User Input
-   - Verify all required input fields are present.
-   - Verify placeholder text is displayed inside each input field.
-   - Verify allowed characters and input constraints (letters, symbols, length).
-  - Verify form behavior with empty fields.
+   - Presence of all mandatory input fields
+   - Validity of input field entries
+   - Handling of empty and incorrect inputs
 
  ## Data Handling
-   - Verify email format validation.
-   - Verify duplicate email is rejected.
-   - Verify behavior with malformed input (e.g. missing @).
-   - Verify system response for already registered data.
+   - Email format validation
+   - Duplicate data handling
+   - System response to malformed input
 
  ## Core Feature Functionality
-   - Verify successful registration is possible.
-   - Verify if user is automatically logged in or redirected after registration.
-   - Verify that a new account is created in the system.
+   - Ability to complete registration successfully
+   - Post-registration behavior (redirect, auto-login)
+   - New account creation
 
  ## Network Handling
-   - Verify behavior when the internet connection is lost.
-   - Verify behavior on slow network conditions.
-   - Verify server response after form submission.
+   - Behavior when connection is lost
+   - Behavior under slow network
+   - Server responses
 
  ## Notifications
-   - Verify success message is shown after registration.
-   - Verify error messages appear on invalid input.
-   - Verify that all messages are readable and informative.
+   - Success and error messages
+   - Message clarity and readability
 
  ## Security Standards
-   - Verify password field hides typed characters.
-   - Verify data is submitted over HTTPS.
-   - Verify presence of anti-spam protection (e.g., CAPTCHA).
-   - Verify password meets minimum security requirements (length, complexity).
-
+   - Password field masking
+   - HTTPS usage
+   - Anti-spam protection presence
+   - Password strength requirements
  ## Accessibility Features
-   - Verify all elements are accessible via keyboard.
-   - Verify font readability and contrast.
-   - Verify presence of labels and ARIA attributes (if applicable).
-   - Verify tab order is logical and intuitive.
+   - Keyboard accessibility
+   - Text readability
+   - Logical tab order
+   - Presence of labels and ARIA attributes
