@@ -1,7 +1,7 @@
 ## Navigation Buttons
- -Verify the presence of all necessary buttons (Register, Back to login, Submit, etc.).
- -Verify button states (enabled/disabled) with empty and filled fields.
- -Verify navigation via "Back to login" button.
+ - Verify the presence of all necessary buttons (Register, Back to login, Submit, etc.).
+ - Verify button states (enabled/disabled) with empty and filled fields.
+ - Verify navigation via "Back to login" button.
 
 ## User Input
  -Verify all required input fields are present.
