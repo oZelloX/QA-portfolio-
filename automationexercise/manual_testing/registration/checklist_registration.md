@@ -1,4 +1,4 @@
-## Checklist registration
+## Checklist Registration
 
 
  ### Navigation Buttons
