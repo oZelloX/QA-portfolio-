@@ -1,0 +1,21 @@
+## Test Case: Presence of All Mandatory Input Fields
+
+- **ID**: TC_REG_NAV_001  
+- **Title**: Verify that all mandatory input fields are displayed on the registration page  
+- **Feature**: Registration – User Input  
+- **Priority**: High  
+- **Type**: UI  
+- **Preconditions**: User is on the registration page  
+
+### Test Steps
+1. Observe the displayed input fields
+
+### Expected Result
+All required input fields (e.g., Name, Email,) are present and visible
+
+
+### Actual Result
+
+
+
+### Notes
