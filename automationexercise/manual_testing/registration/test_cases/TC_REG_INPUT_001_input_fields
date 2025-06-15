@@ -8,10 +8,10 @@
 - **Preconditions**: User is on the registration page  
 
 ### Test Steps
-1. Observe the displayed input fields
+1. Visually inspect the page for the presence of the fields 
 
 ### Expected Result
-All required input fields (e.g., Name, Email,) are present and visible
+All required input fields (e.g., Name, Email,) are visible
 
 
 ### Actual Result
