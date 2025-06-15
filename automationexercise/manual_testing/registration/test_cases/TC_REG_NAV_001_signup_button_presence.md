@@ -14,7 +14,7 @@
 The "Sign Up" button is clearly visible on the page.
 
 ### Actual Result
-*( To be filled after execution *)
+
 
 ### Notes
-<!-- Optional observations or additional context -->
+
