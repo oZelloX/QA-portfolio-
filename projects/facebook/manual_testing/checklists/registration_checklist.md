@@ -1,6 +1,6 @@
-Validate sign up using a phone number.
-Validate sign up using an email address.
-Validate input of Russian first and last names.
+-Validate sign up using a phone number.
+-Validate sign up using an email address.
+-Validate input of Russian first and last names.
 Validate input of very short names or surnames.
 Validate different phone number formats (with and without country code).
 Validate sign up with age between 13 and 18.
