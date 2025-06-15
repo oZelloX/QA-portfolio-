@@ -20,10 +20,7 @@ I’m currently focused on manual testing, functional testing, bug reporting, an
 - **archive/**  
   Old tasks, drafts, or completed exercises that are no longer actively maintained but kept for reference.
 
-## 📌 About Me
 
-Aspiring QA Engineer with a background in Quality Inspection in the automotive industry.  
-Currently learning QA fundamentals and looking to gain practical experience in real-world projects.
 # Aleksandrs Goldobenkovs – QA Portfolio
 
 ## 👨‍💻 About Me  
