@@ -13,7 +13,9 @@
 ### Expected Result
 The "Sign Up" button is clearly visible on the page.
 
+
 ### Actual Result
+
 
 
 ### Notes
