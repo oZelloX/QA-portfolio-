@@ -5,7 +5,7 @@
 - Validate different phone number formats (with and without country code).
 - Validate sign up with age between 13 and 18.
 - Validate sign up with age between 18 and 120.
-- Validate selection of different gender options.
+- Validate selection of different gender options.  
 
 - Validate sign up with empty First Name field
 - Validate sign up with empty Surname field
