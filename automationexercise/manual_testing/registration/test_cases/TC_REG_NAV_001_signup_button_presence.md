@@ -1,17 +1,17 @@
 ## Test Case: Presence of "Sign Up" Button on Registration Page
 
 - **ID**: TC_REG_NAV_001  
-- **Title**: Verify that the "Sign Up" button exists on the registration page  
+- **Title**: Verify that the "Sign Up" button is present on the registration page  
 - **Feature**: Registration – Navigation Buttons  
-- **Priority**: High  
+- **Priority**: Medium  
 - **Type**: UI  
 - **Preconditions**: User is on the registration page  
 
 ### Test Steps
-1. Observe the "Sign Up" button on the registration page
+1. Visually inspect the page for the presence of the button "Sign Up"
 
 ### Expected Result
-The "Sign Up" button is present in the DOM structure of the page and clearly visible (not hidden via styles).
+The "Sign Up" button is clearly visible on the page.
 
 ### Actual Result
 <!-- To be filled after execution -->
