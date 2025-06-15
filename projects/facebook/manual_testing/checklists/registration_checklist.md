@@ -2,33 +2,31 @@
 - Validate sign up using an email address.
 - Validate input of Russian first and last names.
 - Validate input of very short names or surnames.
-Validate different phone number formats (with and without country code).
-Validate sign up with age between 13 and 18.
-Validate sign up with age between 18 and 120.
-Validate selection of different gender options.
+- Validate different phone number formats (with and without country code).
+- Validate sign up with age between 13 and 18.
+- Validate sign up with age between 18 and 120.
+- Validate selection of different gender options.
 
-Validate leaving first name field empty
-Validate leaving Surname field empty
-Validate leaving email or phone number field empty
-Validate leaving password field empty
-Validate leaving gender field empty
-Verify providing number or special characters in first name
-Verify providing numbers or special chracters in Surname
-Verify providing very short first name "N"
-Verify providing very short Surname "N"
-Verify providing very long first name "more than 50 characters"
-Verify providing very long Surname "more than 50 characters"
-Verify providing a short mobile number "1234"
-Verify providing a long mobile number "more than 15 digits"
-Verify providing a space in the mobile number
-Verify Copy/Paste mobile number from another website or application
-Verify adding an email with wrong format "e.g abc342432%"
-Verify adding an email with mistake in the format "agoldobenkovs@gamil.com
-Validate a password with less than 6 digits [e.g A12%1]
-Validate a password without letters [e.g 12345%^&]
-Validate a password without numbers [e.g asdfg%^&]
-Validate a password without special characters [12345asdfghj]
-Validate providing a data of birth less than 13
-Validate providing a date of birth more than 120
-
-
+- Validate sign up with empty First Name field
+- Validate sign up with empty Surname field
+- Validate sign up with empty Email or Phone Number field
+- Validate sign up with empty Password field
+- Validate sign up with empty Gender field
+- Validate First Name with invalid characters
+- Validate Surname with invalid characters
+- Validate First Name with too few characters
+- Validate Surname with too few characters
+- Validate First Name with too many characters
+- Validate Surname with too many characters
+- Validate Phone Number with too few digits
+- Validate Phone Number with too many digits
+- Validate Phone Number containing spaces
+- Validate Phone Number pasted from clipboard
+- Validate Email with invalid format
+- Validate Email with incorrect domain
+- Validate Password with insufficient length
+- Validate Password without letters
+- Validate Password without numbers
+- Validate Password without special characters
+- Validate Date of Birth below minimum age
+- Validate Date of Birth above maximum age
