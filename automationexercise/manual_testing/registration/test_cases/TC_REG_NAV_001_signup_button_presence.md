@@ -3,7 +3,7 @@
 - **ID**: TC_REG_NAV_001  
 - **Title**: Verify that the "Sign Up" button is present on the registration page  
 - **Feature**: Registration – Navigation Buttons  
-- **Priority**: Medium  
+- **Priority**: High  
 - **Type**: UI  
 - **Preconditions**: User is on the registration page  
 
