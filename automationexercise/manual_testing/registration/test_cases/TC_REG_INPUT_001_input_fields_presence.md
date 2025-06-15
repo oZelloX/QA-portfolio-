@@ -11,7 +11,7 @@
 1. Visually inspect the page for the presence of the fields 
 
 ### Expected Result
-All required input fields (e.g., Name, Email,) are visible
+All required input fields (e.g., Name, Email,) are clearly visible on the page
 
 
 ### Actual Result
