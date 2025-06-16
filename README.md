@@ -29,12 +29,15 @@ I transitioned from Quality Inspection in the automotive industry to software te
 Currently focusing on Manual Testing and API Testing, building practical skills through realistic test projects.
 
 ## 🧰 Tools & Technologies  
-- Postman (API testing, scripting)
-- Git & GitHub (portfolio, version control)
-- Trello (study planning)
-- Markdown (test documentation)
-- VS Code (basic usage)
-- JSON, HTTP methods, status codes
+- Postman (API testing, scripting)  
+- Git & GitHub (portfolio, version control)  
+- Trello (study planning)  
+- Markdown (test documentation)  
+- VS Code (basic usage)  
+- JIRA (test management basics)  
+- Zephyr (JIRA plugin for test case management)  
+- Qase (planned for future use)  
+- JSON, HTTP methods, status codes  
 
 ## 🔧 QA Skills  
 - Functional & Non-functional Testing  
