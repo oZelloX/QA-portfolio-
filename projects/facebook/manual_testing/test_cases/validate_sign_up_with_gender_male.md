@@ -1,6 +1,6 @@
-# Test Case: Validate Sign Up With Age Between 18 and 120
+# Test Case: Validate Sign Up With Gender Male
 
-**ID:** TC_FB_REG_008  
+**ID:** TC_FB_REG_009  
 **Module:** Facebook – Registration  
 **Designed by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-06-16  
@@ -15,8 +15,8 @@
 **Test Steps:**
 
 1. Enter a valid first name and surname  
-2. Select a valid date of birth that results in age between 18 and 120
-3. Select a gender  
+2. Select a valid date of birth
+3. Select a gender Male  
 4. Enter a valid mobile phone number or email address 
 5. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
 6. Click on the **Sign Up** button
@@ -24,9 +24,8 @@
 ---
 
 **Expected Result:**   
-- The system accepts the provided age between 18 and 120  
+- The system accepts the provided gender Male
 - A verification code or confirmation message is sent based on the contact method used
-- A verification code is sent to the provided mobile number  
 - User proceeds to the next step or sees a confirmation message
 
 ---
@@ -37,5 +36,5 @@ _To be filled after test execution_
 ---
 
 **Notes:**  
-- Age between 18 and 120 is considered a valid input range
+- 
 
