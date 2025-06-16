@@ -36,5 +36,5 @@ _To be filled after test execution_
 ---
 
 **Notes:**  
-- Mobile number format must include country code  
-- Phone number should not be previously registered  
+- The mobile number must follow the accepted format  
+- The mobile number must not already be registered  
