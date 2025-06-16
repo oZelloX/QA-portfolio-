@@ -1,1 +1,41 @@
-s
+# Test Case: Validate Sign Up Using a Mobile Number in 0044 Format
+
+**ID:** TC_FB_REG_006  
+**Module:** Facebook – Registration  
+**Designed by:** Aleksandrs Goldobenkovs  
+**Date:** 2025-06-16  
+**Priority:** High  
+**Type:** Functional  
+**Preconditions:**  
+- User is on the Facebook registration page  
+- Registration form is fully loaded
+
+---
+
+**Test Steps:**
+
+1. Enter a valid first name and surname  
+2. Select a valid date of birth
+3. Select a gender  
+4. Enter a valid mobile phone number in international format (e.g., 00447123456789) 
+5. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
+6. Click on the **Sign Up** button
+
+---
+
+**Expected Result:**  
+- The system accepts the provided mobile number  
+- A verification code is sent to the provided mobile number  
+- User proceeds to the next step or sees a confirmation message
+
+---
+
+**Actual Result:**  
+_To be filled after test execution_
+
+---
+
+**Notes:**  
+- This test case covers mobile numbers in 0044 international format only
+- The mobile number must not already be registered  
+
