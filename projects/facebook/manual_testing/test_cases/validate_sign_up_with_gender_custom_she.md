@@ -1,4 +1,4 @@
-# Test Case: Validate Sign Up With Gender Custom - She
+# Test Case: Validate Sign Up With Gender Custom - "She"
 
 **ID:** TC_FB_REG_011  
 **Module:** Facebook – Registration  
