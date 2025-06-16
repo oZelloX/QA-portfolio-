@@ -25,8 +25,7 @@
 
 **Expected Result:**   
 - The system accepts the provided age between 18 and 120  
-- A verification code or confirmation message is sent based on the contact method used
-- A verification code is sent to the provided mobile number  
+- A verification code or confirmation message is sent based on the contact method used 
 - User proceeds to the next step or sees a confirmation message
 
 ---
