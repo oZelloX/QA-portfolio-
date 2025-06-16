@@ -1,6 +1,6 @@
 # Test Case: Validate Sign Up Using a Mobile Number
 
-**ID:** TC_FB_REG_001  
+**ID:** TC_FB_REG_005  
 **Module:** Facebook – Registration  
 **Designed by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-06-16  
@@ -36,5 +36,5 @@ _To be filled after test execution_
 ---
 
 **Notes:**  
-- Accepted formats may include +44, 0044, or local format starting with 0  
+- This test case covers mobile numbers in +44 international format only
 - The mobile number must not already be registered  
