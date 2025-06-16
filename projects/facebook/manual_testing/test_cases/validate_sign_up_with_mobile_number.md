@@ -1,4 +1,4 @@
-# Test Case: Validate Sign Up Using a Phone Number
+# Test Case: Validate Sign Up Using a Mobile Number
 
 **ID:** TC_FB_REG_001  
 **Module:** Facebook – Registration  
