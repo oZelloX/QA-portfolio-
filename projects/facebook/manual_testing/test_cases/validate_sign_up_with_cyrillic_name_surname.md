@@ -1,4 +1,4 @@
-# Test Case: Validate Sign Up Using a Cirrilic Letters for Name and Surname
+# Test Case: Validate Sign Up Using a Cyrillic Letters for Name and Surname
 
 **ID:** TC_FB_REG_003  
 **Module:** Facebook – Registration  
