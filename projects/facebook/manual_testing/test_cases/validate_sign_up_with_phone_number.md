@@ -18,7 +18,7 @@
 2. Select a valid date of birth
 3. Select a gender  
 4. Enter a valid mobile phone number (e.g., +447123456789) 
-5. Enter a secure password (Enter a combination of at least six numbers, lettetrs and punctuation marks(such as ! and &))  
+5. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
 6. Click on the **Sign Up** button
 
 ---
