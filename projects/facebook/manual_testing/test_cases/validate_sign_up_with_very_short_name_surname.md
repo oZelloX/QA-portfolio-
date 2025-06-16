@@ -17,7 +17,7 @@
 1. Enter a very short valid first name and surname (e.g., "Al", "Li")
 2. Select a valid date of birth
 3. Select a gender  
-4. Enter a valid email address
+4. Enter a valid mobile phone number or email address
 5. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
 6. Click on the **Sign Up** button
 
