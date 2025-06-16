@@ -24,7 +24,7 @@
 ---
 
 **Expected Result:**  
-- The system accepts the phone number  
+- The system accepts the mobile number  
 - A verification code is sent to the provided mobile number  
 - User proceeds to the next step or sees a confirmation message
 
