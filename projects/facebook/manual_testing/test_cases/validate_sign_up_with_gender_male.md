@@ -25,7 +25,7 @@
 
 **Expected Result:**   
 - The system accepts the provided gender Male
-- A verification code or confirmation message is sent based on the contact method used
+- A confirmation message is sent to the provided email or mobile number 
 - User proceeds to the next step or sees a confirmation message
 
 ---
@@ -36,5 +36,7 @@ _To be filled after test execution_
 ---
 
 **Notes:**  
-- 
+- Gender selection should persist after form submission
+- No additional fields should appear when Male is selected
+- The selected gender should be stored in the user profile after registration
 
