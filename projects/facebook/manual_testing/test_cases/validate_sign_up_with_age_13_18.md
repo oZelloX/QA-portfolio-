@@ -26,7 +26,6 @@
 **Expected Result:**   
 - The system accepts the provided age between 13 and 18  
 - A confirmation message is sent to the provided email or mobile number
-- A verification code is sent to the provided mobile number  
 - User proceeds to the next step or sees a confirmation message
 
 ---
