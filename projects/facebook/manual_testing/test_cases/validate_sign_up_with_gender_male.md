@@ -1,6 +1,6 @@
 # Test Case: Validate Sign Up With Gender Male
 
-**ID:** TC_FB_REG_009  
+**ID:** TC_FB_REG_010  
 **Module:** Facebook – Registration  
 **Designed by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-06-16  
