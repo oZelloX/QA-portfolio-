@@ -25,7 +25,7 @@
 
 **Expected Result:**  
 - The system accepts the email address  
-- A confirmation email is sent  
+- A confirmation email is sent to the provided email
 - User proceeds to the next step or sees a confirmation message
 
 ---
