@@ -24,7 +24,7 @@
 ---
 
 **Expected Result:**   
-- The system accepts the provided gender "Custom" "She"
+- The system accepts the provided gender as “Custom” with pronoun “He”
 - A confirmation message is sent to the provided email or mobile number 
 - User proceeds to the next step or sees a confirmation message
 
