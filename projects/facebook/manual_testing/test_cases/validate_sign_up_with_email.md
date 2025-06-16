@@ -35,6 +35,6 @@ _To be filled after test execution_
 
 ---
 
-**Notes:**  
-- Email must follow a valid format (e.g., username@example.com)  
-- Email should not already be registered
+**Notes:**    
+- The email address must follow a valid format (e.g., username@example.com)
+- The email address must not already be registered
