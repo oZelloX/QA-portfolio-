@@ -1,4 +1,4 @@
-# Test Case: Validate Sign Up With Email or Mobile Number Empty
+# Test Case: Validate Sign Up With Email or Mobile Number Field Empty
 
 **ID:** TC_FB_REG_022  
 **Module:** Facebook – Registration  
