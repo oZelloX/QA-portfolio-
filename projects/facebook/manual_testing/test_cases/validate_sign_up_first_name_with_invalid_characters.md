@@ -1,5 +1,4 @@
-# Test Case: Validate Sign Up Using Invalid Characters
-
+# Test Case: Validate Sign Up Using Invalid Characters in First Name
 **ID:** TC_FB_REG_016  
 **Module:** Facebook – Registration  
 **Designed by:** Aleksandrs Goldobenkovs  
