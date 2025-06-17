@@ -3,7 +3,7 @@
 **ID:** TC_FB_REG_020  
 **Module:** Facebook – Registration  
 **Designed by:** Aleksandrs Goldobenkovs  
-**Date:** 2025-06-16  
+**Date:** 2025-06-17  
 **Priority:** High  
 **Type:** Functional  
 **Preconditions:**  
@@ -17,7 +17,7 @@
 1. Leave First name field empty
 2. Enter a valid Surname
 3. Select a valid date of birth
-4. select a gender
+4. Select a gender
 5. Enter a valid mobile phone number or email address 
 6. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
 7. Click on the **Sign Up** button
