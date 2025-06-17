@@ -13,7 +13,7 @@
 
 **Test Steps:**
 
-1. Enter special characters (e.g., @#$%) in the First Name field
+1. Enter special characters (e.g., @#$%^&*) in the First Name field
 2. Enter a valid Surname
 3. Select a valid date of birth
 4. Select a gender  
