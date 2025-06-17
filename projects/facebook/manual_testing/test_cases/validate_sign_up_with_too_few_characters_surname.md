@@ -4,8 +4,8 @@
 **Module:** Facebook – Registration  
 **Designed by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-06-17  
-**Priority:** High  
-**Type:** Functional  
+**Priority:** Medium 
+**Type:** Negative / Boundary 
 **Preconditions:**  
 - User is on the Facebook registration page  
 - Registration form is fully loaded
