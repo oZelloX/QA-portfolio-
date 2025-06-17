@@ -26,7 +26,7 @@
 
 **Expected Result:**  
 - The system prevents registration
-- A validation message is displayed prompting the user to enter a valid phone number
+- A validation message is displayed indicating that the phone number is too short
 
 ---
 
