@@ -4,7 +4,7 @@
 **Designed by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-06-17  
 **Priority:** High  
-**Type:** Functional  
+**Type:** Negative  
 **Preconditions:**  
 - User is on the Facebook registration page  
 - Registration form is fully loaded
