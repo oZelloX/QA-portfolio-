@@ -15,7 +15,7 @@
 **Test Steps:**
 
 1. Leave First name field empty
-2. Enter  
+2. Enter a valid Surname
 3. Select a valid date of birth
 4. select a gender
 5. Enter a valid mobile phone number or email address 
@@ -26,7 +26,7 @@
 
 **Expected Result:**   
 - The system prevents registration
-- A validation message is displayed prompting the user to select a First name
+- A validation message is displayed prompting the user to enter a First name
 
 ---
 
