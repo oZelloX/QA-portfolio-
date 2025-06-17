@@ -14,19 +14,19 @@
 
 **Test Steps:**
 
-1. Enter1 character in the First name field
-2. Select a valid date of birth
-3. Select a gender  
-4. Enter a valid mobile phone number or email address
-5. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
-6. Click on the **Sign Up** button
+1. Enter 1 character in the First name field
+2. Enter a valid Surname
+3. Select a valid date of birth
+4. Select a gender  
+5. Enter a valid mobile phone number or email address
+6. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
+7. Click on the **Sign Up** button
 
 ---
 
 **Expected Result:**  
-- The system accepts very short but valid names and surnames
-- A confirmation message is sent to the provided email or mobile number 
-- User proceeds to the next step or sees a confirmation message
+- The system prevents registration
+- A validation message is displayed prompting the user to enter a longer First name
 
 ---
 
@@ -36,6 +36,4 @@ _To be filled after test execution_
 ---
 
 **Notes:**    
-- Minimum accepted character count for name fields should be validated  
-- No validation error should appear for short but valid entries
-
+- Minimum name length should typically be 2+ characters
