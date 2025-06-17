@@ -1,4 +1,4 @@
-# Test Case: Validate Sign Up Using Too Few Characters
+# Test Case: Validate Sign Up With Too Few Characters in First Name
 
 **ID:** TC_FB_REG_024  
 **Module:** Facebook – Registration  
