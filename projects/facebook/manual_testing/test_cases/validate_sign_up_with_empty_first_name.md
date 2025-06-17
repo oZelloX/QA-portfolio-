@@ -14,12 +14,13 @@
 
 **Test Steps:**
 
-1. Leave First name field empty 
-2. Select a valid date of birth
-3. Leave the gender field unselected
-4. Enter a valid mobile phone number or email address 
-5. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
-6. Click on the **Sign Up** button
+1. Leave First name field empty
+2. Enter  
+3. Select a valid date of birth
+4. select a gender
+5. Enter a valid mobile phone number or email address 
+6. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
+7. Click on the **Sign Up** button
 
 ---
 
