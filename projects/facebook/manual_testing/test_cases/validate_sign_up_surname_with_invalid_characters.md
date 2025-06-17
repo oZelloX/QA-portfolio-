@@ -15,7 +15,7 @@
 **Test Steps:**
 
 1. Enter a First name
-2. Enter special characters (e.g. @#$%) in the Surname field
+2. Enter special characters (e.g. @#$%^&*) in the Surname field
 3. Select a valid date of birth
 4. Select a gender  
 5. Enter a valid mobile phone number or email address
