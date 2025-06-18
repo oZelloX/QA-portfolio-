@@ -14,7 +14,7 @@
 
 **Test Steps:**
 
-1.Click the **“Create New Account”** link
+1. Click the **“Create New Account”** link
 
 ---
 
