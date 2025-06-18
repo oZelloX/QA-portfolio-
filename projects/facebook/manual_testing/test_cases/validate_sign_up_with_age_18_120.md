@@ -35,5 +35,6 @@ _To be filled after test execution_
 
 ---
 
-**Notes:**  
-- Age between 18 and 120 is considered a valid input range
+**Notes:** 
+- This test also covers upper boundary for valid age (120 years)
+
