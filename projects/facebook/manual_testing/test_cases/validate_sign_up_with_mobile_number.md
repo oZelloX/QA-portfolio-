@@ -15,7 +15,7 @@
 **Test Steps:**
 
 1. Enter a valid first name and surname  
-2. Select a valid date of birth
+2. Select a valid date of birth that makes the user 15 years old
 3. Select a gender  
 4. Enter a valid mobile phone number (e.g., 07123456789) 
 5. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
@@ -35,6 +35,7 @@ _To be filled after test execution_
 
 ---
 
-**Notes:**  
+**Notes:**
+- This test also confirms that users aged 15 can register successfully
 - The mobile number must follow the accepted format  
 - The mobile number must not already be registered  
