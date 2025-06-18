@@ -37,5 +37,6 @@ _To be filled after test execution_
 
 **Notes:**  
 - 
+- This test also covers lower boundary for valid age (13 years)
 - Facebook’s policy requires users to be at least 13 years old
 - Age-related parental settings apply after registration, not during sign-up
