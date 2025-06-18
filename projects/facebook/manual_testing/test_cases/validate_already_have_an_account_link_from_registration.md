@@ -14,7 +14,7 @@
 
 **Test Steps:**
 
-1.Click the **“Already have an account?”** link
+1. Click the **“Already have an account?”** link
 
 ---
 
