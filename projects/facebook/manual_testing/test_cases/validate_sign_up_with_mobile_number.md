@@ -39,3 +39,4 @@ _To be filled after test execution_
 - This test also confirms that users aged 15 can register successfully
 - The mobile number must follow the accepted format  
 - The mobile number must not already be registered  
+- The account created for a 15-year-old user should be treated as a teen account (ages 13–17), with appropriate restrictions applied after registration
