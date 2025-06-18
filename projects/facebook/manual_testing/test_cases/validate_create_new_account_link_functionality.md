@@ -7,8 +7,8 @@
 **Priority:** Low  
 **Type:** Functional  
 **Preconditions:**  
-- User is on the Facebook registration page  
-- Registration form is fully loaded
+- User is on the Facebook Login page
+- Login form is fully loaded
 
 ---
 
