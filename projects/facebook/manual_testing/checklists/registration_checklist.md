@@ -22,21 +22,35 @@
 # Facebook Registration Test Checklist
 
 ## ✅ Positive Test Scenarios
-- [x] Validate sign up using a phone number or email address  
-- [x] Validate input of Cyrillic and very short names or surnames  
+- [x] Validate sign up using a phone number  
+- [x] Validate sign up using an email address  
+- [x] Validate input of Cyrillic first and last names  
+- [x] Validate input of very short names or surnames  
 - [x] Validate different phone number formats (with and without country code)  
-- [x] Validate sign up with valid age ranges (13–17 and 18–120)  
+- [x] Validate sign up with age between 13 and 18  
+- [x] Validate sign up with age between 18 and 120  
 - [x] Validate selection of different gender options  
 
 ## ❌ Negative Test Scenarios
 - [x] Validate sign up with empty required fields  
-- [x] Validate name fields with invalid, too few, or too many characters  
-- [x] Validate phone number with invalid length, spaces, or pasted formatting  
-- [x] Validate email with invalid format or domain, or already registered  
-- [x] Validate password against security requirements (length, letters, digits, special characters)  
-- [x] Validate sign up with age below 13 or above 120  
-- [x] Validate sign up at age boundaries (17 and 18 years)
+- [x] Validate First Name and Surname with invalid characters  
+- [x] Validate Name Fields with too few characters  
+- [x] Validate Name Fields with too many characters  
+- [x] Validate Phone Number with invalid lengths (too few / too many digits)  
+- [x] Validate Phone Number with spaces  
+- [x] Validate Phone Number pasted from clipboard (formatting preserved)  
+- [x] Validate Email with invalid format  
+- [x] Validate Email with incorrect domain  
+- [x] Validate sign up with already registered email  
+- [x] Validate Password with insufficient length  
+- [x] Validate Password without letters  
+- [x] Validate Password without numbers  
+- [x] Validate Password without special characters  
+- [x] Validate Date of Birth below minimum age  
+- [x] Validate Date of Birth above maximum age  
+- [x] Validate sign up with age 17 (teen account)  
+- [x] Validate sign up with age 18 (adult account)  
 
 ## 🔁 Navigation & UI
-- [x] Validate “Already have an account?” link  
-- [x] Validate “Create New Account” link from login page  
+- [x] Validate “Already have an account?” link functionality  
+- [x] Validate “Create New Account” link functionality from Login page  
