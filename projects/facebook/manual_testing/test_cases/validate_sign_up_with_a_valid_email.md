@@ -15,7 +15,7 @@
 **Test Steps:**
 
 1. Enter a valid first name and surname  
-2. Select a valid date of birth
+2. Select a valid date of birth that makes the user 50 years old
 3. Select a gender  
 4. Enter a valid email address
 5. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
@@ -35,6 +35,7 @@ _To be filled after test execution_
 
 ---
 
-**Notes:**    
+**Notes:**
+- This test also confirms that users aged 50 can register successfully
 - The email address must follow a valid format (e.g., username@example.com)
 - The email address must not already be registered
