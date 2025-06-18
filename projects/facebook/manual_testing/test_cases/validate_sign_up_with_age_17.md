@@ -1,4 +1,4 @@
-# Test Case: Validate Sign Up With Date of Birth Above Maximum Age
+# Test Case: Validate Sign Up With Age 17 (Teen Account)
 
 **ID:** TC_FB_REG_041  
 **Module:** Facebook – Registration  
@@ -37,3 +37,4 @@ _To be filled after test execution_
 
 **Notes:**
 - This test validates the upper boundary of the teen account range (13–17)
+- Age-related parental settings apply after registration, not during sign-up
