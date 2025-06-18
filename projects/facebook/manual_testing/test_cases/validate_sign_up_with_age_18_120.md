@@ -15,7 +15,7 @@
 **Test Steps:**
 
 1. Enter a valid first name and surname  
-2. Select a valid date of birth that results in age between 18 and 120
+2. Select a date of birth that makes the user exactly 120 years old (boundary value)
 3. Select a gender  
 4. Enter a valid mobile phone number or email address 
 5. Enter a secure password (Enter a combination of at least six numbers, letters and punctuation marks(such as ! and &))  
