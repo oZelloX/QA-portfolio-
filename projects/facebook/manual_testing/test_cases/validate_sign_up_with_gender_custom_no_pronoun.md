@@ -14,7 +14,8 @@
 
 **Test Steps:**
 
-1. Enter a valid first name and surname  
+1. Enter a valid First name
+2. Enter a valid Surname  
 2. Select a valid date of birth
 3. Select Custom as gender
 4. Do not choose any pronoun from the dropdown
