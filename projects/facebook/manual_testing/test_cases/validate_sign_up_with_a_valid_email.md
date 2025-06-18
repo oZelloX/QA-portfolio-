@@ -14,7 +14,8 @@
 
 **Test Steps:**
 
-1. Enter a valid first name and surname  
+1. Enter a valid First name
+2. Enter a valid Surname  
 2. Select a valid date of birth that makes the user 50 years old
 3. Select a gender  
 4. Enter a valid email address
