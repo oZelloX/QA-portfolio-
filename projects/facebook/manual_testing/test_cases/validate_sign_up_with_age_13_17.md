@@ -1,4 +1,4 @@
-# Test Case: Validate Sign Up With Age Between 13 and 18
+# Test Case: Validate Sign Up With Age Between 13 and 17
 
 **ID:** TC_FB_REG_007  
 **Module:** Facebook – Registration  
@@ -24,7 +24,7 @@
 ---
 
 **Expected Result:**   
-- The system accepts the provided age between 13 and 18  
+- The system accepts the provided age between 13 and 17  
 - A confirmation message is sent to the provided email or mobile number
 - User proceeds to the next step or sees a confirmation message
 
