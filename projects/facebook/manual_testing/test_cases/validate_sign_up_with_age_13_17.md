@@ -1,4 +1,4 @@
-# Test Case: Validate Sign Up With Age Between 13 and 17
+# Test Case: Validate Sign Up With Age Between 13 and 17 (Teen Account)
 
 **ID:** TC_FB_REG_007  
 **Module:** Facebook – Registration  
