@@ -26,7 +26,7 @@
 
 **Expected Result:**   
 - The system prevents registration
--  A validation message is displayed indicating that the user does not meet the minimum age requirement
+- A validation message is displayed indicating that the user does not meet the minimum age requirement
 
 ---
 
@@ -36,4 +36,4 @@ _To be filled after test execution_
 ---
 
 **Notes:**
-- - Facebook requires users to be at least 13 years old to register
+- Facebook requires users to be at least 13 years old to register
