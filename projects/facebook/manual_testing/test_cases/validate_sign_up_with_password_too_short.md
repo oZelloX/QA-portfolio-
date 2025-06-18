@@ -37,4 +37,4 @@ _To be filled after test execution_
 
 **Notes:**
 - Other password criteria are intentionally met to isolate length validation
-- Passwords must meet minimum length requirements (typically 6+ characters) for security reasons.
+- Passwords must meet minimum length requirements (typically 6+ characters) for security reasons
