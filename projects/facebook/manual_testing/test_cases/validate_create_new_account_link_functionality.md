@@ -1,7 +1,7 @@
 # Test Case: Validate “Create New Account” Link Functionality from Login Page
 
 **ID:** TC_FB_REG_044  
-**Module:** Facebook – Registration  
+**Module:** Facebook – Login  
 **Designed by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-06-18  
 **Priority:** Low  
