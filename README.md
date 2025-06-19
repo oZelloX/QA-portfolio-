@@ -53,7 +53,7 @@ Currently focusing on Manual Testing and API Testing, building practical skills 
 Each project contains real test documentation structured by type:
 
 - `Facebook Registration Testing`  
-  Manual testing project with checklists and test cases for the registration process.
+  Manual testing project with checklists and test cases for the registration process.  
   [Facebook Registration Checklist](projects/facebook/manual_testing/checklists/)  
   [Facebook Registration Test Cases](projects/facebook/manual_testing/test_cases/)
 
