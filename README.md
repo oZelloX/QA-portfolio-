@@ -54,7 +54,8 @@ Each project contains real test documentation structured by type:
 
 - `Facebook Registration Testing`  
   Manual testing project with checklists and test cases for the registration process.  
-  [Link to folder](./facebook/manual_testing)  [projects/facebook/manual_testing
+  [Link to folder](projects/facebook/manual_testing
+/checklists)  [projects/facebook/manual_testing
 /checklists/]
 
 - `API Testing Practice – Reqres`  
