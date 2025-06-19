@@ -21,4 +21,4 @@ Each checklist item represents a testable requirement or condition. Use this doc
 - Representative values (e.g. age 15, 50) used deliberately to simulate realistic entries
 - Checklist kept high-level to support faster review and prioritization
 
-✅ The actual checklist is available in [checklist.md](registration_checklist.md)
+✅ The actual checklist is available in [registration_checklist.md](registration_checklist.md)
