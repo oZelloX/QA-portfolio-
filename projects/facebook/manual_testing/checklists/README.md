@@ -17,8 +17,8 @@ Each checklist item represents a testable requirement or condition. Use this doc
 - Realistic data simulation (e.g. Cyrillic names, pasted inputs)
 
 🧠 **Design Notes**
-- Combined similar items (e.g. phone number length issues) for clarity
 - Representative values (e.g. age 15, 50) used deliberately to simulate realistic entries
 - Checklist kept high-level to support faster review and prioritization
 
 ✅ The actual checklist is available in [registration_checklist.md](registration_checklist.md)
+
