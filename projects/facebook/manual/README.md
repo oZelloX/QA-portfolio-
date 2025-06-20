@@ -43,7 +43,7 @@ facebook_registration/
 │   ├── reports/
 │   └── README.md
 
-└── README.md  ← главное описание проекта
+└── README.md  ← главное описание проекта  
 
 
 
@@ -78,8 +78,8 @@ facebook_registration/
 ## 🧩 Other Accessibility Features
 - [ ] Validate zoom functionality up to 200% without layout breakage
 - [ ] Validate support for high contrast mode (system setting)
-- [ ] Validate that form fields do not rely on placeholder-only labeling
-
+- [ ] Validate that form fields do not rely on placeholder-only labeling  
+ 
 
 
 
