@@ -1,4 +1,10 @@
-# Facebook Registration Test Checklist
+# Functionality Checklist – Facebook Registration
+
+**Module**: Registration Page  
+**Designed by**: Aleksandrs Goldobenkovs  
+**Date**: 2025-06-15  
+**Priority**: High  
+**Scope**: Functional Testing
 
 ## ✅ Positive Test Scenarios
 - [x] Validate sign up using a phone number  
