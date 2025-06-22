@@ -18,11 +18,11 @@
 1. Press the `Tab` key repeatedly to navigate through each interactive element  
 2. Observe the order of focus movement across fields:  
    - First Name  
-   - Surname  
+   - Surname
+   - Date of birth (day, month, year)
+   - Gender selection
    - Mobile/email  
    - New password  
-   - Date of birth (day, month, year)  
-   - Gender selection  
    - Sign Up button  
    - Already have an account? link
 
