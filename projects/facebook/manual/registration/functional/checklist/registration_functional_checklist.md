@@ -20,9 +20,6 @@
 - [x] Validate sign up with empty required fields  
 - [x] Validate name fields with invalid characters  
 - [x] Validate name fields with invalid length (too few / too many character
-
-kak seihas?
-s) 
 - [x] Validate phone number field with invalid formats (length, spacing, pasted input)  
 - [x] Validate Email with invalid format  
 - [x] Validate Email with incorrect domain  
