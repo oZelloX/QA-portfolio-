@@ -37,3 +37,21 @@ The next stage will focus on **Accessibility Testing**, including:
   Checking visual clarity and compliance with accessibility standards (e.g. WCAG 2.1), including sufficient contrast and non-color-based indicators.
 
 These enhancements aim to ensure an inclusive, user-friendly registration experience across all accessibility needs.
+
+
+
+
+# Functional Testing – Facebook Registration
+
+## Scope
+Functional testing of the Facebook registration page, covering validation logic, form input behavior, and navigation between screens.
+
+## Coverage Strategy
+- Equivalence Partitioning and Boundary Value Analysis for age and input constraints
+- Positive and negative test cases for all required fields
+- Navigation and UI behavior verification
+
+## Design Notes
+- Representative values (e.g., 15, 50) were added to broaden test coverage
+- Similar test cases were grouped to avoid redundancy
+- Steps written in concise format to reflect typical project documentation
