@@ -6,7 +6,7 @@
 **Priority**: High  
 **Scope**: Functional Testing
 
-## ✅ Positive Test Scenarios
+##  Positive Test Scenarios
 - [x] Validate sign up using a phone number  
 - [x] Validate sign up using an email address  
 - [x] Validate input of Cyrillic first and last names  
@@ -16,7 +16,7 @@
 - [x] Validate adult account sign up (age 18–120, including boundary 18)  
 - [x] Validate selection of different gender options  
 
-## ❌ Negative Test Scenarios
+##  Negative Test Scenarios
 - [x] Validate sign up with empty required fields  
 - [x] Validate name fields with invalid characters  
 - [x] Validate name fields with invalid length (too few / too many character
