@@ -35,5 +35,6 @@ _To be filled after test execution_
 ---
 
 **Notes:**  
-- Check that no element requires a mouse to interact  
-- Include dropdown and gender selection in the check
+- All interactive elements must be fully operable without a mouse or trackpad  
+- Inability to complete registration using only the keyboard is a violation of WCAG 2.1 (Success Criterion 2.1.1 – Keyboard)  
+- Include dropdown and gender selection in the check 
