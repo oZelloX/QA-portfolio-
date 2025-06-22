@@ -3,7 +3,7 @@
 This repository contains my practical work and learning progress in the field of Software Quality Assurance (QA).  
 I’m currently focused on manual testing, functional testing, bug reporting, and planning to move into automation and API testing.
 
-## 📂 Structure
+##  Structure
 
 - **manual_testing/**  
   Test cases, bug reports, checklists, and documentation related to manual testing.
@@ -23,12 +23,12 @@ I’m currently focused on manual testing, functional testing, bug reporting, an
 
 # Aleksandrs Goldobenkovs – QA Portfolio
 
-## 👨‍💻 About Me  
+##  About Me  
 Aspiring QA Engineer with strong attention to detail, logical thinking, and real-world testing practice.  
 I transitioned from Quality Inspection in the automotive industry to software testing, driven by a desire for precision, structure, and growth.  
 Currently focusing on Manual Testing and API Testing, building practical skills through realistic test projects.
 
-## 🧰 Tools & Technologies  
+##  Tools & Technologies  
 - Postman (API testing, scripting)  
 - Git & GitHub (portfolio, version control)  
 - Trello (study planning)  
@@ -39,7 +39,7 @@ Currently focusing on Manual Testing and API Testing, building practical skills 
 - Qase (planned for future use)  
 - JSON, HTTP methods, status codes  
 
-## 🔧 QA Skills  
+##  QA Skills  
 - Functional & Non-functional Testing  
 - Writing Checklists & Test Cases  
 - Bug Reporting  
@@ -49,7 +49,7 @@ Currently focusing on Manual Testing and API Testing, building practical skills 
 - UI/UX Evaluation  
 - Basic understanding of edge cases, validation, and error handling  
 
-## 📁 Projects  
+##  Projects  
 Each project contains real test documentation structured by type:
 
 - `Facebook Registration Testing`  
