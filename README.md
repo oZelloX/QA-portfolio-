@@ -5,13 +5,13 @@ I’m currently focused on manual testing, functional testing, bug reporting, an
 
 ##  Structure
 
-- **manual_testing/**  
+- **all_manual_tests/**  
   Test cases, bug reports, checklists, and documentation related to manual testing.
 
-- **api_testing/**  
+- **all_api_tests/**  
   API testing examples, Postman collections, and API reports.
 
-- **automation/**  
+- **all_automattion_tests/**  
   Future section for test automation with tools like Selenium, Cypress, or Playwright.
 
 - **theory_notes/**  
