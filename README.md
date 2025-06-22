@@ -56,8 +56,8 @@ Each project contains real test documentation structured by type:
   Manual testing project with checklists and test cases for the registration process.  
   [Facebook Functional Registration Checklist](projects/facebook/manual/registration/functional/checklist/)  
   [Facebook Functional Registration Test Cases](projects/facebook/manual/registration/functional/test_cases/)
-  [Facebook Accessibility Registration Checklist](projects/facebook/manual/registration/accessibility/checklist/)
-  [Facebook Accessibility Functional Registration Test Cases](projects/facebook/manual/registration/accessibility/test_cases/)
+  [Facebook Accessibility Registration Checklist](projects/facebook/manual/registration/accessibility/checklist/)  
+  [Facebook Accessibility Functional Registration Test Cases](projects/facebook/manual/registration/accessibility/test_cases/)  
   
 - `API Testing Practice – Reqres`  
   CRUD request testing with Postman collections, test scripts, and analysis.  
