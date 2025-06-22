@@ -7,28 +7,29 @@
 **Priority:** Medium  
 **Type:** Accessibility  
 **Preconditions:**  
-- User is viewing the Facebook registration page  
-- Browser window is resized to 320px width  
-- Page is fully loaded
+- User is on the Facebook registration page  
+- Page is fully loaded  
+- Browser is in responsive mode set to 320px screen width (e.g., using Chrome DevTools)
 
 ---
 
 **Test Steps:**
 
-1. Resize the browser window to 320px width  
-   _(use responsive mode in DevTools or an actual mobile device)_  
-2. Scroll through the registration form  
-3. Attempt to enter values in each field  
-4. Check whether buttons, labels, and inputs remain visible and functional  
-5. Observe for layout issues: overlapping, cut-off elements, or unusable inputs
+1. Open browser DevTools (F12 or right-click → Inspect)  
+2. Enable responsive design mode  
+3. Set screen width to **320px**  
+4. Reload the Facebook registration page  
+5. Scroll through the form and attempt to fill out each field  
+6. Verify that all inputs, buttons, and labels are visible and functional  
+7. Look for layout issues like overlapping, clipping, or horizontal scrolling
 
 ---
 
 **Expected Result:**  
-- All elements remain visible and properly aligned  
-- No horizontal scrolling required  
-- Labels and fields are readable and not clipped  
-- Page remains usable on small screens
+- All UI elements are properly aligned  
+- No content is cut off  
+- Horizontal scrolling is not required  
+- Registration form remains fully usable
 
 ---
 
@@ -38,5 +39,5 @@ _To be filled after test execution_
 ---
 
 **Notes:**  
-- 320px width simulates smaller smartphones and must be supported without layout issues  
-- This test helps verify compliance with WCAG 2.1 (Success Criterion 1.4.10 – Reflow)
+- This simulates usage on smaller smartphones  
+- Any layout failure may violate WCAG 2.1 (Success Criterion 1.4.10 – Reflow)
