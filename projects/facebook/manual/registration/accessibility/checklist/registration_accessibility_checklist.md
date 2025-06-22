@@ -42,3 +42,23 @@
 
 **Notes**:  
 This checklist is meant for desktop web browser testing. Mobile-specific accessibility (VoiceOver, TalkBack) should be tested separately.
+
+
+
+# Accessibility Checklist – Facebook Registration
+
+**Module**: Registration Page  
+**Designed by**: Aleksandrs Goldobenkovs  
+**Date**: 2025-06-15  
+**Priority**: High  
+**Scope**: Accessibility Testing (WCAG 2.1, AA level)
+
+---
+
+- [ ] All interactive elements are keyboard-accessible with visible, logical focus  
+- [ ] All fields and controls have accessible labels and descriptions  
+- [ ] Errors are visible, specific, associated, and announced  
+- [ ] No field uses placeholder as the only label  
+- [ ] Contrast meets WCAG standards; color is not the only indicator  
+- [ ] Page is readable at 200% zoom and usable at 320px width  
+- [ ] Proper ARIA roles and landmarks are implemented
