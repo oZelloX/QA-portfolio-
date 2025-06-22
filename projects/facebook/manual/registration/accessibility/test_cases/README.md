@@ -76,3 +76,24 @@ Future extensions may include:
   Testing voice input, switch control, or external keyboard navigation across platforms
 
 These steps aim to ensure that Facebook’s registration page is accessible and inclusive for all users.
+
+
+
+
+
+# Accessibility Testing – Facebook Registration
+
+## Scope
+Accessibility testing of the Facebook registration form, focused on compliance with WCAG 2.1 (AA level).
+
+## Coverage Strategy
+- Keyboard-only navigation and logical focus flow
+- Screen reader compatibility for fields, labels, and error messages
+- Color contrast, non-color indicators, and zoom responsiveness
+- ARIA roles and semantic landmarks
+
+## Design Notes
+- Each test case targets a specific accessibility concern based on WCAG criteria
+- Checklist was grouped to avoid duplication and simplify structure
+- Tests are executable without specialized devices (where possible)
+- 
