@@ -3,7 +3,7 @@
 **ID:** TC_FB_ACC_002  
 **Module:** Facebook – Registration  
 **Designed by:** Aleksandrs Goldobenkovs  
-**Date:** 2025-06-21  
+**Date:** 2025-06-22  
 **Priority:** High  
 **Type:** Accessibility  
 **Preconditions:**  
