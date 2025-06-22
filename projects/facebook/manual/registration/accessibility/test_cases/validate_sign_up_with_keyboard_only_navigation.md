@@ -9,7 +9,7 @@
 **Preconditions:**  
 - User is on the Facebook registration page  
 - Page is fully loaded  
-- Mouse is not used during the test  
+- Mouse and trackpad are not used during the test  
 
 ---
 
