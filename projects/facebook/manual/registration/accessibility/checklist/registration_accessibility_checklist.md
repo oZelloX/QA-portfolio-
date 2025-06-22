@@ -2,7 +2,7 @@
 
 **Module**: Registration Page  
 **Designed by**: Aleksandrs Goldobenkovs  
-**Date**: 2025-06-15  
+**Date**: 2025-06-22  
 **Priority**: High  
 **Scope**: Accessibility Testing (WCAG 2.1, AA level)
 
