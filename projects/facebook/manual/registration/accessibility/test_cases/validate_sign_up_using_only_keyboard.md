@@ -15,11 +15,15 @@
 
 **Test Steps:**
 
-1. Press the `Tab` key to move to the First Name field and enter a valid name  
-2. Continue using `Tab` to navigate and fill in all required fields  
-3. Use `Arrow` keys and `Space` to select gender option  
-4. Navigate to the **Sign Up** button  
-5. Press `Enter` to attempt registration
+1. Use `Tab` key to move to the First Name field and enter a valid name  
+2. Use `Tab` to navigate to the Surname field and enter a valid surname  
+3. Use `Tab` to move to the date of birth fields  
+4. Use `Arrow` keys and `Enter` or `Space` to select Day, Month, and Year  
+5. Use `Tab` to navigate to the gender selection  
+6. Use `Arrow` keys and `Space` to choose a gender option  
+7. Use `Tab` to navigate to Mobile/Email and Password fields and enter valid values  
+8. Use `Tab` to move to the **Sign Up** button  
+9. Press `Enter` to attempt registration
 
 ---
 
