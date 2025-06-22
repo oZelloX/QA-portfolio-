@@ -41,4 +41,6 @@ _To be filled after test execution_
 ---
 
 **Notes:**  
-- If focus returns to the beginning or skips gender selection, this is a critical accessibility bug
+- Focus must follow the visual and logical structure of the registration form
+- If focus returns to the beginning or skips gender selection, this is a critical accessibility bug 
+- Incorrect or illogical focus order is a violation of WCAG 2.1 (Success Criterion 2.4.3 – Focus Order)  
