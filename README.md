@@ -63,15 +63,15 @@ Each project contains real test documentation structured by type:
   CRUD request testing with Postman collections, test scripts, and analysis.  
   [Link to folder](./api_testing/reqres_demo)
 
-## 📚 Learning & Courses  
+##  Learning & Courses  
 - Self-paced structured training in Manual & API Testing  
 - Practice with real websites and mock APIs  
 - Deep focus on writing clean, testable documentation
 
-## 📜 Certificates  
+##  Certificates  
 (Currently in progress)
 
-## 📩 Contact  
+##  Contact  
 [GitHub Profile](https://github.com/yourusername)  
 
 ---
