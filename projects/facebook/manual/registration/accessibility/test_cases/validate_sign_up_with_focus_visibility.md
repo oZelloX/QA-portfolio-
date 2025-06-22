@@ -34,6 +34,6 @@ _To be filled after test execution_
 
 ---
 
-**Notes:**  
-- Lack of visible focus is a violation of WCAG 2.1 (Success Criterion 2.4.7 – Focus Visible)  
+**Notes:**    
 - Common elements to verify: input fields, dropdowns, radio buttons, Sign Up button, links
+- Lack of visible focus is a violation of WCAG 2.1 (Success Criterion 2.4.7 – Focus Visible)
