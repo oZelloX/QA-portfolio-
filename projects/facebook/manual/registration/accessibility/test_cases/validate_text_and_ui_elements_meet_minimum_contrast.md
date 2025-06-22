@@ -1,6 +1,6 @@
 # Test Case: Verify Text and UI Elements Meet Minimum Contrast Requirements
 
-**ID:** TC_FB_ACC_010  
+**ID:** TC_FB_ACC_009  
 **Module:** Facebook – Registration  
 **Designed by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-06-22  
