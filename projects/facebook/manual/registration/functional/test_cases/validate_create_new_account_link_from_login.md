@@ -7,7 +7,7 @@
 **Priority:** Low  
 **Type:** Functional  
 **Preconditions:**  
-- User is on the Facebook Login page
+- User is on the Facebook Login page  (https://www.facebook.com/r.php?entry_point=login)
 - Login form is fully loaded
 
 ---
