@@ -7,7 +7,7 @@
 **Priority:** High  
 **Type:** Accessibility  
 **Preconditions:**  
-- User is on the Facebook registration page  
+- User is on the Facebook registration page  ([`https://www.facebook.com/r.php?entry_point=login`](https://www.facebook.com/r.php?entry_point=login))
 - Page is fully loaded  
 - Screen reader is enabled and running
 
