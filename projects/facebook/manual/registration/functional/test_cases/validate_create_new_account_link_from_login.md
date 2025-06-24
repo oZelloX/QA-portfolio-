@@ -32,5 +32,3 @@ _To be filled after test execution_
 - Ensures the user can easily return to registration from the login screen if they don’t have an account
 
 
-- User is on the Facebook login page ([`https://www.facebook.com/login`](https://www.facebook.com/login))  
-- Login form is fully loaded
