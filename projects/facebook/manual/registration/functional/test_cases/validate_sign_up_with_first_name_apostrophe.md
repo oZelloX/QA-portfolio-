@@ -6,7 +6,7 @@
 **Priority:** High  
 **Type:** Functional  
 **Preconditions:**  
-- User is on the Facebook registration page  
+- User is on the Facebook registration page  ([`https://www.facebook.com/r.php?entry_point=login`](https://www.facebook.com/r.php?entry_point=login))
 - Registration form is fully loaded
 
 ---
