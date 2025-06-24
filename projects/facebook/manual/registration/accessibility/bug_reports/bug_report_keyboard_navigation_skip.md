@@ -63,9 +63,6 @@
 
 ---
 
-## 📎 Attachments
+##  Attachments
 
-- [Watch Bug Reproduction Video (Loom)](https://www.loom.com/share//2c3a1d86ae974d439b70152f97d7ca45?sid=38256aec-7cc0-4201-abe0-b6159695e1bc)
-
-https://www.loom.com/share/2c3a1d86ae974d439b70152f97d7ca45?sid=38256aec-7cc0-4201-abe0-b6159695e1bc
-
+- [Watch Bug Reproduction Video (Loom)](https://www.loom.com/share/2c3a1d86ae974d439b70152f97d7ca45?sid=6b28c488-0de0-466b-9c64-ff46195d9a76)
