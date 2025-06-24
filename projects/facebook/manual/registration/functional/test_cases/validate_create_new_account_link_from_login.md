@@ -7,7 +7,7 @@
 **Priority:** Low  
 **Type:** Functional  
 **Preconditions:**  
-- User is on the Facebook Login page  [([`https://www.facebook.com/r.php?entry_point=login](https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNzgxMjM0LCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D)`]([https://www.facebook.com/r.php?entry_point=login)](https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNzgxMjM0LCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D))
+- User is on the Facebook Login page  [[([`https://www.facebook.com/r.php?entry_point=login](https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNzgxMjM0LCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D)`]([https://www.facebook.com/r.php?entry_point=login)](https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNzgxMjM0LCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D))](https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNzgxMjM0LCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D)
 - Login form is fully loaded
 
 ---
