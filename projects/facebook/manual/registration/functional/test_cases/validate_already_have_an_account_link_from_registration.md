@@ -30,3 +30,7 @@ _To be filled after test execution_
 
 **Notes:**
 - Confirms that navigation works correctly from registration to login page
+
+
+- User is on the Facebook registration page (`https://www.facebook.com/r.php?entry_point=login`)  
+- Page is fully loaded
