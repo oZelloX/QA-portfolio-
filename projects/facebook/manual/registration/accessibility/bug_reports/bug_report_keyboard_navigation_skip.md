@@ -6,65 +6,63 @@
 **Date:** 2025-06-24  
 **Severity:** High  
 **Priority:** High  
-**Type:** Accessibility / Keyboard Navigation  
+**Type:** Accessibility – Keyboard Navigation  
 **Status:** Open  
 
 ---
 
-## 📍 Environment
+## Environment
 
-- **URL:** [`https://www.facebook.com/r.php?entry_point=login`](https://www.facebook.com/r.php?entry_point=login)  
-- **Browser:** Safari (Version 18.5 (20621.2.5.11.8))  
-- **OS:** macOS (macOS Sequoia 15.5)  
-
+- **URL:** [https://www.facebook.com/r.php?entry_point=login](https://www.facebook.com/r.php?entry_point=login)  
+- **Browser:** Safari 18.5 (20621.2.5.11.8)  
+- **OS:** macOS Sequoia 15.5  
 
 ---
 
-## ✅ Preconditions
+## Preconditions
 
-- User is on the Facebook registration page  [`https://www.facebook.com/r.php?entry_point=login`](https://www.facebook.com/r.php?entry_point=login)
+- User is on the registration page  
 - Page is fully loaded  
-- Keyboard-only navigation is used (Tab/Shift+Tab)
+- Navigation is performed using keyboard only (`Tab` / `Shift+Tab`)
 
 ---
 
-## 🔁 Steps to Reproduce
+## Steps to Reproduce
 
-1. Press `Tab` to start navigating from the **First Name** input field  
-2. Continue pressing `Tab` through the form  
-3. Observe which elements receive keyboard focus  
+1. Press `Tab` to focus the **First Name** field  
+2. Continue pressing `Tab` to navigate through the form  
+3. Observe focus behavior on all form elements  
 
 ---
 
-## ❌ Actual Result
+## Actual Result
 
-- Keyboard focus **skips multiple interactive elements**, specifically:
-  - **Gender selection** (radio buttons or dropdown)
+- Keyboard focus **skips**:
+  - **Gender selection** (radio buttons / dropdown)  
   - **Sign Up** button  
   - **"Already have an account?"** link  
-- After skipping these, focus jumps to the **browser’s address bar**, bypassing the remaining form controls  
-- These elements are visible on the page but **not accessible via keyboard**
+- Focus jumps to the **browser address bar**, skipping critical elements  
+- These elements are visible but **not reachable** via keyboard  
 
 ---
 
-## ✅ Expected Result
+## Expected Result
 
-- Every visible, interactive form element must be **reachable using Tab**  
-- Focus should proceed logically through:
+- Keyboard focus should sequentially move through **all interactive elements**:
   - First Name → Surname → DOB → Gender → Email/Phone → Password → Sign Up → Existing Account Link  
-- Focus must not skip or bypass active UI components
+- **No focus skips** should occur  
 
 ---
 
-## 📌 Notes
+## Notes
 
-- This is a **critical accessibility issue** affecting users who rely on keyboard navigation  
-- It violates WCAG 2.1:  
-  - **Success Criterion 2.1.1 – Keyboard**  
-  - **Success Criterion 2.4.3 – Focus Order**
+- Critical accessibility failure  
+- Violates:
+  - WCAG 2.1 – **2.1.1 Keyboard**  
+  - WCAG 2.1 – **2.4.3 Focus Order**  
 
 ---
 
-## 📎 Attachments
+## Attachments
 
-*Optional: Add screenshots or video if needed*
+*None*
