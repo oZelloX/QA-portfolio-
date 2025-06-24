@@ -58,8 +58,7 @@ Each project contains real test documentation structured by type:
   [Facebook Functional Registration Test Cases](projects/facebook/manual/registration/functional/test_cases/)  
   [Facebook Accessibility Registration Checklist](projects/facebook/manual/registration/accessibility/checklist/)  
   [Facebook Accessibility Functional Registration Test Cases](projects/facebook/manual/registration/accessibility/test_cases/)  
-  [Bug Report: Keyboard Navigation Skips Elements](projects/facebook/manual/registration/accessibility/bug_reports
-/bug_report_keyboard_navigation_skip.md)
+  [Bug Report: Keyboard Navigation Skips Elements](projects/facebook/manual/registration/accessibility/bug_reports/)
    
 - `API Testing Practice – Reqres`  
   CRUD request testing with Postman collections, test scripts, and analysis.  
