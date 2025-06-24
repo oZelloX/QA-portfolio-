@@ -7,7 +7,7 @@
 **Priority:** Low  
 **Type:** Functional  
 **Preconditions:**  
-- User is on the Facebook Login page  [[([`https://www.facebook.com/r.php?entry_point=login](https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNzgxMjM0LCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D)`]([https://www.facebook.com/r.php?entry_point=login)](https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNzgxMjM0LCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D))](https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNzgxMjM0LCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D)
+- User is on the Facebook Login page  ([`https://www.facebook.com/login`](https://www.facebook.com/login))
 - Login form is fully loaded
 
 ---
@@ -30,3 +30,7 @@ _To be filled after test execution_
 
 **Notes:**
 - Ensures the user can easily return to registration from the login screen if they don’t have an account
+
+
+- User is on the Facebook login page ([`https://www.facebook.com/login`](https://www.facebook.com/login))  
+- Login form is fully loaded
