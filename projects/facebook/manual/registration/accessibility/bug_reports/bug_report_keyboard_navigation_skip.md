@@ -3,7 +3,7 @@
 **ID:** BR_FB_ACC_001  
 **Module:** Facebook – Registration  
 **Reported by:** Aleksandrs Goldobenkovs  
-**Date:** 2025-06-22  
+**Date:** 2025-06-24  
 **Severity:** High  
 **Priority:** High  
 **Type:** Accessibility / Keyboard Navigation  
@@ -14,16 +14,15 @@
 ## 📍 Environment
 
 - **URL:** [`https://www.facebook.com/r.php?entry_point=login`](https://www.facebook.com/r.php?entry_point=login)  
-- **Browser:** Chrome (latest stable)  
-- **OS:** macOS / Windows  
-- **Zoom Level:** 100%  
-- **Screen Reader:** *Not required to reproduce*
+- **Browser:** Safari (Version 18.5 (20621.2.5.11.8))  
+- **OS:** macOS (macOS Sequoia 15.5)  
+
 
 ---
 
 ## ✅ Preconditions
 
-- User is on the Facebook registration page  
+- User is on the Facebook registration page  [`https://www.facebook.com/r.php?entry_point=login`](https://www.facebook.com/r.php?entry_point=login)
 - Page is fully loaded  
 - Keyboard-only navigation is used (Tab/Shift+Tab)
 
