@@ -7,7 +7,7 @@
 **Priority:** Medium  
 **Type:** Accessibility  
 **Preconditions:**  
-- User is on the Facebook registration page  
+- User is on the Facebook registration page  ([`https://www.facebook.com/r.php?entry_point=login`](https://www.facebook.com/r.php?entry_point=login))
 - Page is fully loaded  
 - Browser is in responsive mode set to 320px screen width (e.g., using Chrome DevTools)
 
