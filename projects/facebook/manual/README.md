@@ -12,3 +12,6 @@ Each module focuses on a specific functionality and includes both functional and
 - [Registration](./registration) — Manual and accessibility testing of the registration process  
 - [Login](./login) — (Planned) Manual and accessibility testing of the login process
 
+---
+
+[🏠 Back to Portfolio Main Page](../../../README.md)
