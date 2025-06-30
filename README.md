@@ -11,7 +11,7 @@ This portfolio showcases real-world examples of checklists, test cases, bug repo
   Manual testing of the Facebook registration flow, including checklists, test cases, and bug reports.
 
 - [API Shop Testing](./api_shop_project)  
-  Simulated REST API testing using Postman and mock data.
+  REST API testing using Postman and sample e-commerce endpoints.
 
 ---
 
@@ -29,7 +29,7 @@ These folders contain selected test cases and bug reports grouped by type for ea
 ## 🛠 Tools & Technologies
 
 - Postman, Git, Markdown  
-- TestRail (basic), DevTools (basic)
+
 
 ---
 
