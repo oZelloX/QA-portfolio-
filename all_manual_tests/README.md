@@ -12,4 +12,11 @@ Each test case follows a structured format and includes:
 
 ---
 
+## Test Case Index
+
+- [Facebook Registration – Functional Test Cases](../projects/facebook/manual/registration/functional/test_cases)  
+- [Facebook Registration – Accessibility Test Cases](../projects/facebook/manual/registration/accessibility/test_cases)
+
+---
+
 [🏠 Back to Portfolio Main Page](../README.md)
