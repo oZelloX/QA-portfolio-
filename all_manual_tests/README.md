@@ -1,9 +1,11 @@
 # All Manual Test Cases
 
-This folder contains all manual test cases from different projects.  
-Each test case includes:
+This folder contains all manual test cases collected from various projects.  
+Each test case follows a structured format and includes:
 
-- Test case ID, Title, and Module
-- Preconditions
-- Test Steps
-- Expected Result
+- Test Case ID, Title, and Module  
+- Preconditions  
+- Test Steps  
+- Expected Result  
+- Actual Result  
+- Notes (if applicable)
