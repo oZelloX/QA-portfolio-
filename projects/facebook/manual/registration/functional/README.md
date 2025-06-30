@@ -5,8 +5,7 @@ It focuses on verifying the correct behavior of input validation, field requirem
 
 ---
 
-## 📁 Structure
+## 📁 Contents
 
-- **checklist/** — High-level list of functional checks for the registration form  
-- **test_cases/** — Detailed functional test cases with steps, expected results, and actual outcomes
-
+- [Checklist](./checklist) — High-level list of functional checks for the registration form  
+- [Test Cases](./test_cases) — Detailed functional test cases with steps, expected results, and actual outcomes
