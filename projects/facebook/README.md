@@ -1,22 +1,13 @@
-# Facebook Registration — Manual Testing Project
+# Facebook Testing Projects
 
-This project covers manual testing of the Facebook registration flow.  
-It includes both functional and accessibility testing, with structured documentation.
+This folder contains QA testing projects focused on Facebook's user-facing features.  
+Each project is divided by testing approach (manual, automation, etc.) and by functionality (e.g., registration, login).
 
 ---
 
 ## 📁 Structure
 
-- [Functional Testing](./functional)  
-  Test cases and checklists verifying core registration functionality.
+- [Manual Testing](./manual) — Manual functional and accessibility testing of key flows like registration and login  
+- *(Other types of testing may be added in the future, such as automation or API testing)*
 
-- [Accessibility Testing](./accessibility)  
-  Accessibility-focused tests and bug reports to evaluate keyboard navigation and screen reader behavior.
-
----
-
-Each section contains:
-- Checklists  
-- Test Cases  
-- Bug Reports (if applicable)
 
