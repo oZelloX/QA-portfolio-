@@ -1,12 +1,13 @@
 # All API Test Cases
 
-This folder contains REST API test cases designed using Postman.  
-Each case demonstrates usage of different request types and includes:
+This folder contains REST API test cases created using Postman.  
+Each test case demonstrates the use of different request types and includes:
 
-- Endpoint and Method
-- Request Body (if applicable)
-- Expected Status Code
-- Response validation logic
+- Endpoint and HTTP Method  
+- Request Body (if applicable)  
+- Expected Status Code  
+- Response Validation  
+- Notes (if applicable)
 
 
 
