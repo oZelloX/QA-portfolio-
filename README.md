@@ -1,13 +1,13 @@
-# QA Portfolio — Aleksandrs Goldobenkovs
+# QA Portfolio | Aleksandrs Goldobenkovs
 
-I'm an entry-level QA engineer with practical experience in manual and API testing.  
-This portfolio includes examples of my QA work across different types of testing tasks.
+Aspiring QA Engineer with hands-on experience in manual and API testing.  
+This portfolio showcases real-world examples of checklists, test cases, bug reports, and API tests across different projects.
 
 ---
 
 ## 🔹 Full Projects
 
-- [Facebook Registration Testing](./facebook_registration_project)  
+- [Facebook Registration Testing](./projects/facebook/manual/registration)  
   Manual testing of the Facebook registration flow, including checklists, test cases, and bug reports.
 
 - [API Shop Testing](./api_shop_project)  
@@ -21,7 +21,8 @@ This portfolio includes examples of my QA work across different types of testing
 - [All API Test Cases](./all_api_tests)  
 - [All Bug Reports](./all_bug_reports)
 
-These folders contain individual test artifacts extracted from full projects.
+These folders contain selected test cases and bug reports grouped by type for easier review.
+
 
 ---
 
@@ -34,11 +35,10 @@ These folders contain individual test artifacts extracted from full projects.
 
 ## 🧠 QA Skills
 
-- Functional & Non-functional testing  
-- Test case design  
-- Bug reporting  
-- REST API basics  
-- Test documentation and structure
+- Functional & non-functional testing (checklists, test cases, exploratory testing)  
+- Bug reporting (well-structured, reproducible reports with expected vs. actual behavior)  
+- REST API testing with Postman  
+- Clear documentation using Markdown  
 
 ---
 
@@ -47,5 +47,8 @@ These folders contain individual test artifacts extracted from full projects.
 - English — Intermediate  
 - Russian — Native  
 - Latvian — Fluent
+
+- _Last updated: June 2025_
+
 
 
