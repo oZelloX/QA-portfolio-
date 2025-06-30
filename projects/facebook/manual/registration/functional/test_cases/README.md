@@ -1,4 +1,4 @@
-[⬅ Back to Registration](../README.md)
+[⬅ Back to Functional Testing](../README.md)
 
 # Functional Testing – Facebook Registration
 
