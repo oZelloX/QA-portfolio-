@@ -1,17 +1,10 @@
-# Automation
+# All Automation Tests
 
-This folder is reserved for future automation testing work. 
+This folder will include automated test scripts and frameworks in the future.
 
-It will include examples using tools like Selenium, Cypress, or Playwright, and will focus on creating automated test cases for UI and API testing.
+Planned tools and languages:
+- Selenium or Playwright
+- JavaScript / Python / Java
+- GitHub Actions (optional)
 
-## 📂 Structure
-
-- **tests/**  
-Automation test scenarios.
-
-- **frameworks/**  
-Reusable components, configuration files, and project setup.
-
-- **reports/**  
-Automation run results and execution summaries.
-
+Currently under development.
