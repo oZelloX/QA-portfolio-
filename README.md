@@ -48,7 +48,6 @@ These folders contain selected test cases and bug reports grouped by type for ea
 - Russian — Native  
 - Latvian — Fluent
 
--                                                                               _Last updated: June 2025_
-
+-                                                                               Last updated: June 2025
 
 
