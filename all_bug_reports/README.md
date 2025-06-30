@@ -10,3 +10,7 @@ Each report includes the following details:
 - Additional Notes (if applicable)
 
 
+
+## Facebook Registration
+
+- [Bug: Keyboard focus skips gender selection](../projects/facebook/manual/registration/accessibility/bug_reports/bug_report_keyboard_navigation_skip.md)
