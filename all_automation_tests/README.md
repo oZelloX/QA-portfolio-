@@ -1,10 +1,10 @@
 # All Automation Tests
 
-This folder will include automated test scripts and frameworks in the future.
+This folder is reserved for automated test scripts and frameworks.
 
-Planned tools and languages:
-- Selenium or Playwright
-- JavaScript / Python / Java
-- GitHub Actions (optional)
+Planned tools and technologies:
+- Selenium or Playwright  
+- JavaScript, Python, or Java  
+- GitHub Actions (optional for CI)
 
-Currently under development.
+Content is currently under development and will be added in future updates.
