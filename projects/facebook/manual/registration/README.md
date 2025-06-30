@@ -1,3 +1,5 @@
+[⬅ Back to Manual Modules](../README.md)
+
 # Facebook Registration — Manual Testing
 
 This project covers manual testing of the Facebook registration flow.  
