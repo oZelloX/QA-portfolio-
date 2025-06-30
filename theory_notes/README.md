@@ -13,3 +13,6 @@ It serves as a reference for key concepts, definitions, reusable checklists, and
 - **interview_prep/** — Questions, answers, and tips for QA interview preparation
 
 
+---
+
+[🏠 Back to Portfolio Main Page](../README.md)
