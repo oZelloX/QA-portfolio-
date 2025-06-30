@@ -7,5 +7,5 @@ Projects include real-world examples of manual testing, bug reporting, API testi
 
 ## Available Projects
 
-- [Facebook Registration](./facebook/manual/registration) — Manual and accessibility testing of Facebook registration flow  
+- [Facebook](./facebook) — QA testing of Facebook user flows (registration, login, etc.)
 - More projects will be added as the portfolio expands
