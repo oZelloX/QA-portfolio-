@@ -1,20 +1,12 @@
-# API Testing Practice
+# All API Test Cases
 
-This folder contains my practical exercises and documentation related to API testing as part of my QA learning process.  
+This folder contains REST API test cases designed using Postman.  
+Each case demonstrates usage of different request types and includes:
 
-## 📂 Structure
-
-- **login/**  
-Successful and unsuccessful login tests.
-
-- **users/**  
-Tests related to user listing, user creation, and user detail endpoints.
-
-- **postman_collection/**  
-Exported Postman collection with all tested requests.
-
-- **reports/**  
-Markdown reports describing each test case with request/response details.
+- Endpoint and Method
+- Request Body (if applicable)
+- Expected Status Code
+- Response validation logic
 
 
 
