@@ -14,4 +14,4 @@ Each project is divided by testing approach (manual, automation, etc.) and by fu
 
 ---
 
-[🏠 Back to Portfolio Main Page](../../../../../README.md)
+[🏠 Back to Portfolio Main Page](../../README.md)
