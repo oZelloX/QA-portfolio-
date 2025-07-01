@@ -1,11 +1,25 @@
-## 🧷 Cart Model: Item-Based
+## 🧷 Data Model Overview
 
-This project uses an **item-based cart model**, meaning each item added to the cart is stored as a separate entry with a unique `item_id`.
+The API includes the following entities:
 
-This allows us to:
-- Track multiple entries of the same product separately
-- Handle product variations (e.g. color, packaging) within the same `product_id`
-- Remove specific cart items using their `item_id`
+- **Products** — items available for purchase (e.g. mouse, keyboard)
+- **Cart Items** — user-selected products in a virtual shopping cart
+- **Orders** — submitted purchases with total amounts
 
-> Note: In some systems, different product variations (like color) may have their own `product_id`. In our case, variations can be represented as part of the request body, so `item_id` is required to distinguish them.
+### 🛒 Cart Model: Item-Based
 
+This system uses an **item-based cart model**. Each product added to the cart creates a separate entry (`item_id`), even if it's the same product.
+
+This allows:
+
+- Tracking each cart item individually
+- Supporting product variations (like color, packaging) without separate `product_id`s
+- Removing specific cart entries by `item_id`
+
+In some systems, different product variants have separate `product_id`s. In our case, variations are handled via request data, so `item_id` is necessary.
+
+---
+
+## Endpoints
+
+[дальше идут `GET /products`, `POST /cart` и т.д., как раньше]
