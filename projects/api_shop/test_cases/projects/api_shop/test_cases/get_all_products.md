@@ -58,3 +58,70 @@
 ## 📝 Notes:
 
 - Endpoint should return at least 1 product for verification
+
+
+
+
+# Test Case: GET /products
+
+**ID:** TC_API_001  
+**Module:** API Shop – Products  
+**Designed by:** Aleksandrs Goldobenkovs  
+**Date:** 2025-07-03  
+**Priority:** High  
+**Type:** Functional  
+**Preconditions:**  
+- The API is accessible at `https://fakestoreapi.com/products`  
+- The user has Postman installed and a working internet connection
+
+---
+
+**Test Steps:**
+
+1. Open Postman
+2. Set method to **GET**
+3. Enter URL: `https://fakestoreapi.com/products`
+4. Click **Send**
+
+---
+
+**Expected Result:**  
+- Status code is **200 OK**  
+- Response is a JSON array of product objects  
+- Each object contains:
+  - `id` (integer)
+  - `title` (string)
+  - `price` (float)
+  - `description` (string)
+  - `category` (string)
+  - `image` (string URL)
+  - `rating` (object with `rate` as float and `count` as integer)
+   - `rate` (float)  
+   - `count` (integer)
+
+---
+
+**Actual Result:**  
+- Status code: **200 OK**  
+- Response includes multiple valid product objects with expected structure
+```   
+    {
+        "id": 1,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    }
+```
+---
+
+**Notes:**  
+- Tested using real endpoint: `https://fakestoreapi.com/products`  
+- Response was successfully returned with more than 10 products  
+- No authorization required for this endpoint
+
