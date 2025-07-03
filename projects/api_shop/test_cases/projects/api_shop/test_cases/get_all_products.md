@@ -38,7 +38,8 @@
 ## 🔴 Actual Result:
 
 - Status code is **200 OK**
--   
+
+```   
     {
         "id": 1,
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
@@ -51,6 +52,7 @@
             "count": 120
         }
     }
+```
 ---
 
 ## 📝 Notes:
