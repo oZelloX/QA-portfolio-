@@ -19,7 +19,7 @@
 
 ## 🟢 Expected Result:
 
-- Status code is **200 OK**  
+- Status code is **200 OK**    
 - Response body is a JSON array of product objects  
 - Each product must include:
   - `id` (integer)  
@@ -37,7 +37,8 @@
 
 ## 🔴 Actual Result:
 
-- Status code is **200 OK**  
+- Status code is **200 OK**
+-   
     {
         "id": 1,
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
