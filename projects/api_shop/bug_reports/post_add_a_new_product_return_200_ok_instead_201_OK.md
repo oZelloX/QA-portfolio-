@@ -8,7 +8,7 @@
 **Priority:** Medium  
 
 **Environment:**  
-- Endpoint: https://fakestoreapi.com/products    
+- Endpoint: `https://fakestoreapi.com/products`    
 - Method: POST  
 - Tool: Postman  
 - Internet: Stable
@@ -16,7 +16,7 @@
 ---
 
 **Preconditions:** 
-- The API is accessible at https://fakestoreapi.com/products
+- The API is accessible at `https://fakestoreapi.com/products`
 - The user has Postman installed and a working internet connection
 - Valid request body is prepared
 
