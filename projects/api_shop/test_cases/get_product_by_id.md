@@ -8,22 +8,22 @@
 **Type:** Functional  
 **Preconditions:**  
 - The API is accessible at `https://fakestoreapi.com/products/1`  
-- The product with ID 11 exists  
 - The user has Postman installed and a working internet connection
-
+- Product with specified ID exists
+  
 ---
 
 **Test Steps:**
 
 1. Open Postman  
 2. Set method to **GET**  
-3. Enter URL: `https://fakestoreapi.com/products/1`  
+3. Enter URL: `https://fakestoreapi.com/products/{id}` (replace `{id}` with a valid ID)
 4. Click **Send**
 
 ---
 
 **Expected Result:**  
-- Status code is **200 OK**  
+- Status code: **200 OK**  
 - Response is a JSON object  
 - Object contains the following fields:
 ```
