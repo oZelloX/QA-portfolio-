@@ -36,6 +36,6 @@ null
 
 **Notes:**  
 
-API returns 200 OK with null for a non-existent product ID
-This may be misleading and is a potential issue — should return a proper error status and message
-Bug report will be created separately
+- API returns 200 OK with null for a non-existent product ID  
+- This may be misleading and is a potential issue — should return a proper error status and message  
+- Bug report will be created separately  
