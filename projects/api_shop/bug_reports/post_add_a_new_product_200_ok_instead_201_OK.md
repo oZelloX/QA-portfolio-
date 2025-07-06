@@ -52,7 +52,7 @@
 **Actual Result:**  
 - Status code: **200 OK**  
 - Response body:
-``` 
+```json 
 {
   "id": 21,
   "title": "Wireless Mouse",
