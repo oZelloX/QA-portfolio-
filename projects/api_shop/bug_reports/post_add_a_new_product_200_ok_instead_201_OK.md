@@ -36,7 +36,8 @@
   "description": "Compact ergonomic design",
   "category": "electronics",
   "image": "http://example.com/mouse.jpg"
-}  
+}
+```  
 6. Click **Send**
 
 ---
