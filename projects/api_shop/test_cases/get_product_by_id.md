@@ -34,6 +34,7 @@
 ---
 
 **Actual Result:**  
+```
 {
     "id": 10,
     "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
@@ -46,7 +47,7 @@
         "count": 470
     }
 }
-
+```
 ---
 
 **Notes:**  
