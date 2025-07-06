@@ -22,23 +22,25 @@
 ---
 
 **Expected Result:**  
-- Status code is **200 OK**  
+- Status code: **200 OK**  
 - Response is a JSON array of product objects  
-- Each object contains:
-  - `id` (integer)
-  - `title` (string)
-  - `price` (float)
-  - `description` (string)
-  - `category` (string)
-  - `image` (string URL)
-  - `rating` (object with `rate` as float and `count` as integer)
-   - `rate` (float)  
-   - `count` (integer)
-
+- Each object contains the following fields as per documentation:
+- ```
+  [
+  {
+    "id": 0,
+    "title": "string",
+    "price": 0.1,
+    "description": "string",
+    "category": "string",
+    "image": "http://example.com"
+  }
+]
+```
 ---
 
-**Actual Result:**  
-- Status code: **200 OK**  
+**Actual Result:**    
+- Status code: **200 OK**    
 - Response includes multiple valid product objects with expected structure
 ```   
     {
@@ -60,4 +62,6 @@
 - Tested using real endpoint: `https://fakestoreapi.com/products`  
 - Response was successfully returned with more than 10 products  
 - No authorization required for this endpoint
+
+
 
