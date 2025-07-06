@@ -71,4 +71,5 @@
 - The API behaves correctly by generating its own ID and ignoring the client-supplied one  
 - However, the [official documentation](https://fakestoreapi.com/docs) shows that the client should provide the `id` field, which is misleading  
 - This inconsistency may confuse users and should be corrected in the documentation
-- A separate bug (see `BUG_API_002`) already covers the incorrect status code (`200 OK` instead of `201 Created`)
+- Status code 200 OK is also incorrect — this issue is documented separately in [BUG_API_002]
+- Field order in the response is inconsistent with the request — also noted in [BUG_API_002]
