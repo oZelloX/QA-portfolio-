@@ -26,6 +26,7 @@
 - Status code is **200 OK**  
 - Response is a JSON object  
 - Object contains the following fields:
+```
   {
   "id": 0,
   "title": "string",
@@ -34,6 +35,7 @@
   "category": "string",
   "image": "http://example.com"
 }
+```
 ---
 
 **Actual Result:**  
