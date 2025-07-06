@@ -71,3 +71,4 @@
 - The API behaves correctly by generating its own ID and ignoring the client-supplied one  
 - However, the [official documentation](https://fakestoreapi.com/docs) shows that the client should provide the `id` field, which is misleading  
 - This inconsistency may confuse users and should be corrected in the documentation
+- A separate bug (see `BUG_API_002`) already covers the incorrect status code (`200 OK` instead of `201 Created`)
