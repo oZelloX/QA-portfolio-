@@ -1,6 +1,6 @@
 # Bug Report: POST /products – Documentation Incorrectly States That ID Should Be Supplied by Client
 
-**ID:** BUG_API_004  
+**ID:** BUG_API_003  
 **Module:** API Shop – Products  
 **Reported by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-07-06  
@@ -8,7 +8,7 @@
 **Priority:** Low  
 
 **Environment:**  
-- Endpoint: https://fakestoreapi.com/products  
+- Endpoint: `https://fakestoreapi.com/products`  
 - Method: POST  
 - Tool: Postman  
 - Internet: Stable  
