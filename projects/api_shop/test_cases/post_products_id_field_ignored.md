@@ -1,6 +1,6 @@
  # Test Case: POST /products – ID Provided in Request (Based on Documentation)
 
-**ID:** TC_API_004  
+**ID:** TC_API_005  
 **Module:** API Shop – Products  
 **Designed by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-07-06  
