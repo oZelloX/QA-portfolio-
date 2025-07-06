@@ -18,7 +18,7 @@
 **Preconditions:**  
 - The API is accessible at `https://fakestoreapi.com/products`  
 - The user has Postman installed and a working internet connection  
-- Request body is prepared according to official documentation, including `id` field
+- A valid JSON request body is prepared based on the documentation at https://fakestoreapi.com/docs
 
 ---
 
@@ -52,7 +52,7 @@
 ---
 
 **Actual Result:**  
-- Status code: `200 OK`  
+- Status code: `200 OK` (not `201` Created)
 - Response body:
 ```json
 {
