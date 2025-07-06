@@ -8,7 +8,7 @@
 **Type:** Functional  
 **Preconditions:**  
 - The API is accessible at `https://fakestoreapi.com/products/1`  
-- The product with ID 1 exists  
+- The product with ID 11 exists  
 - The user has Postman installed and a working internet connection
 
 ---
