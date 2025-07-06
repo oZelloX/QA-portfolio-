@@ -27,7 +27,7 @@
 - Response is a JSON object  
 - Object contains the following fields:
 ```
-  {
+{
   "id": 0,
   "title": "string",
   "price": 0.1,
