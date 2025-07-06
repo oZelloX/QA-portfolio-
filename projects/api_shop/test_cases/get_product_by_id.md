@@ -7,9 +7,9 @@
 **Priority:** High  
 **Type:** Functional  
 **Preconditions:**  
-- The API is accessible at `https://fakestoreapi.com/products/1`  
-- The user has Postman installed and a working internet connection
-- Product with specified ID exists
+- The API is accessible at `https://fakestoreapi.com/products/{id}`  
+- The user has Postman installed and a working internet connection  
+- Product with ID = 10 exists
   
 ---
 
@@ -24,8 +24,8 @@
 
 **Expected Result:**  
 - Status code: **200 OK**  
-- Response is a JSON object  
-- Object contains the following fields:
+- Response is a JSON object containing the following fields:
+ 
 ```
 {
   "id": 0,
@@ -39,6 +39,9 @@
 ---
 
 **Actual Result:**  
+- Status code: **200 OK**  
+- Response body:
+  
 ```
 {
     "id": 10,
@@ -56,6 +59,5 @@
 ---
 
 **Notes:**  
-- No authorization required  
-- Endpoint should return valid product details for a known ID
+- Actual response includes undocumented field `rating` with nested `rate` (float) and `count` (integer)
  
