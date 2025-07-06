@@ -12,6 +12,8 @@ Returns a list of all products.
 
 **Example response:**
 
+`200`
+
 ```json
 [
   {
