@@ -1,4 +1,4 @@
-# Test Case: POST /products – ID Provided in Request (Based on Documentation)
+ # Test Case: POST /products – ID Provided in Request (Based on Documentation)
 
 **ID:** TC_API_004  
 **Module:** API Shop – Products  
@@ -30,6 +30,7 @@
   "category": "test-category",
   "image": "http://example.com/test.jpg"
 }
+```
 6. Click **Send** 
 
 ---
