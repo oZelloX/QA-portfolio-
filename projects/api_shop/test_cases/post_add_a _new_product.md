@@ -5,7 +5,7 @@
 **Designed by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-07-06  
 **Priority:** High  
-**Type:** Functional
+**Type:** Functional  
 **Preconditions:**  
 - The API is accessible at `https://fakestoreapi.com/products`  
 - The user has Postman installed and a working internet connection
