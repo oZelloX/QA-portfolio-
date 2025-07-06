@@ -44,7 +44,7 @@
 
 **Expected Result:**  
 - Status code: 201 Created  
-- Response body includes the created product with the same field order as in the request, plus assigned id  
+- Response should include the created product with matching field values, and ideally preserve field order for readability.  
 
 
 ---
