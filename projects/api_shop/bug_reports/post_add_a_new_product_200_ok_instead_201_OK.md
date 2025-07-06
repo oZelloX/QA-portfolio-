@@ -51,7 +51,8 @@
 
 **Actual Result:**  
 - Status code: **200 OK**  
-- Response body:  
+- Response body:
+``` 
 {
   "id": 21,
   "title": "Wireless Mouse",
@@ -60,7 +61,7 @@
   "image": "http://example.com/mouse.jpg",
   "category": "electronics"
 }
-
+```
 
 ---
 
