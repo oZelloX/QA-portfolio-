@@ -46,7 +46,8 @@
 **Actual Result:**  
 
 - Status code: 200 OK
-- Response body:  
+- Response body:
+```json  
 {
   "id": 22,  
   "title": "Test Product",
@@ -55,6 +56,7 @@
   "category": "test-category",
   "image": "http://example.com/test.jpg"
 }
+```
 
 ---
 
