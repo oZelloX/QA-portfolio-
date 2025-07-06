@@ -8,7 +8,7 @@
 **Priority:** Medium  
 
 **Environment:**  
-- Endpoint: https://fakestoreapi.com/products``  
+- Endpoint: https://fakestoreapi.com/products    
 - Method: POST  
 - Tool: Postman  
 - Internet: Stable
