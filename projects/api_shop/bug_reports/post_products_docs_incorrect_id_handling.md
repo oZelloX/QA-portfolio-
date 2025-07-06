@@ -1,6 +1,6 @@
-# Bug Report: POST /products – Accepts Custom ID in Request Body
+# Bug Report: POST /products – Documentation Incorrectly States That ID Should Be Supplied by Client
 
-**ID:** BUG_API_003  
+**ID:** BUG_API_004  
 **Module:** API Shop – Products  
 **Reported by:** Aleksandrs Goldobenkovs  
 **Date:** 2025-07-06  
@@ -18,7 +18,7 @@
 **Preconditions:**  
 - The API is accessible at `https://fakestoreapi.com/products`  
 - The user has Postman installed and a working internet connection  
-- Valid JSON body is prepared with a custom `id` field  
+- Request body is prepared according to official documentation, including `id` field
 
 ---
 
@@ -28,15 +28,15 @@
 2. Set method to **POST**  
 3. Enter URL: `https://fakestoreapi.com/products`  
 4. In the **Body** tab, select **raw** and choose **JSON** format  
-5. Paste the following request:  
+5. Paste the following request body (as shown in the official documentation):  
 ```json
 {
-  "id": 99,
-  "title": "Wireless Mouse",
-  "price": 29.99,
-  "description": "Compact ergonomic design",
-  "category": "electronics",
-  "image": "http://example.com/mouse.jpg"
+  "id": 123,
+  "title": "Test Product",
+  "price": 9.99,
+  "description": "Test description",
+  "category": "test-category",
+  "image": "http://example.com/test.jpg"
 }
 ```  
 6. Click **Send**
@@ -44,29 +44,30 @@
 ---
 
 **Expected Result:**  
-- The API should ignore the custom `id` field from the request  
-- It should generate a new ID automatically  
-- Status code: `201 Created`
+- The API should ignore the `id` field supplied in the request body  
+- A new ID should be generated automatically  
+- Status code: `201 Created`  
+- Returned product object should contain a server-generated ID, not the client-provided one
 
 ---
 
 **Actual Result:**  
 - Status code: `200 OK`  
-- Response body:  
+- Response body:
 ```json
 {
-  "id": 99,
-  "title": "Wireless Mouse",
-  "price": 29.99,
-  "description": "Compact ergonomic design",
-  "category": "electronics",
-  "image": "http://example.com/mouse.jpg"
+  "id": 21,
+  "title": "Test Product",
+  "price": 9.99,
+  "description": "Test description",
+  "category": "test-category",
+  "image": "http://example.com/test.jpg"
 }
 ```
 
 ---
 
 **Notes:**  
-- The API accepts and returns the client-defined `id`, which can lead to ID conflicts and violates typical RESTful practices.  
-- According to the [official documentation](https://fakestoreapi.com/docs), the `id` should not be supplied by the client.  
-- This behavior may indicate a lack of input validation or missing constraints on the server.
+- The API behaves correctly by generating its own ID and ignoring the client-supplied one  
+- However, the [official documentation](https://fakestoreapi.com/docs) shows that the client should provide the `id` field, which is misleading  
+- This inconsistency may confuse users and should be corrected in the documentation
