@@ -15,16 +15,12 @@ Returns a list of all products.
 ```json
 [
   {
-    "id": 1,
-    "name": "Wireless Mouse",
-    "price": 29.99,
-    "stock": 25
-  },
-  {
-    "id": 2,
-    "name": "Bluetooth Keyboard",
-    "price": 49.99,
-    "stock": 12
+    "id": 0,
+    "title": "string",
+    "price": 0.1,
+    "description": "string",
+    "category": "string",
+    "image": "http://example.com"
   }
 ]
 ```
@@ -39,10 +35,12 @@ Returns details of a single product by ID.
 
 ```json
 {
-  "id": 1,
-  "name": "Wireless Mouse",
-  "price": 29.99,
-  "stock": 25
+  "id": 0,
+  "title": "string",
+  "price": 0.1,
+  "description": "string",
+  "category": "string",
+  "image": "http://example.com"
 }
 ```
 
