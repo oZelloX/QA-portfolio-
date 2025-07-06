@@ -24,9 +24,9 @@
 **Expected Result:**  
 - Status code: **200 OK**  
 - Response is a JSON array of product objects  
-- Each object contains the following fields as per documentation:
+- Each object contains the following fields:
 - ```
-  [
+[
   {
     "id": 0,
     "title": "string",
@@ -35,7 +35,8 @@
     "category": "string",
     "image": "http://example.com"
   }
-  ]  
+]
+
 ```
 
 ---  
@@ -58,13 +59,10 @@
         }
     }
     ]
--```
+```
 ---
 
 **Notes:**  
-- Tested using real endpoint: `https://fakestoreapi.com/products`  
-- Response was successfully returned with more than 10 products  
-- No authorization required for this endpoint
-
+- Actual response includes additional field rating, which is not documented.
 
 
