@@ -35,7 +35,7 @@
     "category": "string",
     "image": "http://example.com"
   }
-]
+  ]  
 ```
 ---
 
