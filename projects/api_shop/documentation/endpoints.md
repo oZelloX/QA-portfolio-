@@ -35,6 +35,8 @@ Returns details of a single product by ID.
 
 **Example response:**
 
+`200`
+
 ```json
 {
   "id": 0,
@@ -66,7 +68,7 @@ Add a new product.
 ```
 **Responce sample**
 
-201
+`201`
 
 ```json
 {
