@@ -15,8 +15,9 @@
 
 ---
 
-**Preconditions:**  
-- API is accessible  
+**Preconditions:** 
+- The API is accessible at https://fakestoreapi.com/products
+- The user has Postman installed and a working internet connection
 - Product ID `9999` does not exist in the database
 
 ---
