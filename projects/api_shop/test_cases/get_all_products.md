@@ -65,4 +65,5 @@
 ---
 
 **Notes:**  
-- Actual response includes additional field `rating`, which is not documented.
+- Actual response includes undocumented field `rating`, which contains nested fields `rate` (float) and `count` (integer).
+
