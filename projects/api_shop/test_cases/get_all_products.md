@@ -26,7 +26,7 @@
 - Response is a JSON array of product objects  
 - Each object contains the following fields:
 - ```
-[
+  [
   {
     "id": 0,
     "title": "string",
@@ -45,7 +45,7 @@
 - Status code: **200 OK**    
 - Response includes multiple valid product objects with expected structure
 -```
-    [
+   [
     {
         "id": 1,
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
@@ -58,7 +58,7 @@
             "count": 120
         }
     }
-    ]
+]
 ```
 ---
 
