@@ -26,7 +26,7 @@
 - Status code: **200 OK**  
 - Response is a JSON object containing the following fields:
  
-```
+```json
 {
   "id": 0,
   "title": "string",
@@ -42,7 +42,7 @@
 - Status code: **200 OK**  
 - Response body:
   
-```
+```json
 {
     "id": 10,
     "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
