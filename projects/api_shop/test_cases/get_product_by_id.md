@@ -26,11 +26,14 @@
 - Status code is **200 OK**  
 - Response is a JSON object  
 - Object contains the following fields:
-  - `id` (integer)
-  - `name` (string)
-  - `price` (float)
-  - `stock` (integer)
-
+  {
+  "id": 0,
+  "title": "string",
+  "price": 0.1,
+  "description": "string",
+  "category": "string",
+  "image": "http://example.com"
+}
 ---
 
 **Actual Result:**  
