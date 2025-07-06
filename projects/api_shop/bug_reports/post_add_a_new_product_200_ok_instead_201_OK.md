@@ -1,4 +1,4 @@
-# Bug Report: GET /products – Invalid ID returns 200 OK
+# Bug Report: POST /products – Returns 200 OK Instead of 201 Created
 
 **ID:** BUG_API_002  
 **Module:** API Shop – Products  
