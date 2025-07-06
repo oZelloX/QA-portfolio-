@@ -46,6 +46,37 @@ Returns details of a single product by ID.
 
 ---
 
+### POST /products
+
+Add a new product.
+
+**Request body**
+
+```json
+{
+  "id": 0,
+  "title": "string",
+  "price": 0.1,
+  "description": "string",
+  "category": "string",
+  "image": "http://example.com"
+}
+```
+**Responce sample**
+
+201
+
+```json
+{
+  "id": 0,
+  "title": "string",
+  "price": 0.1,
+  "description": "string",
+  "category": "string",
+  "image": "http://example.com"
+}
+```
+
 ## 🔷 Cart
 
 ### POST /cart
