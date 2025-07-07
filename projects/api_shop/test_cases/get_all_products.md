@@ -1,4 +1,4 @@
-# Test Case: GET /products
+# Test Case: Get all products
 
 **ID:** TC_API_001  
 **Module:** API Shop – Products  
