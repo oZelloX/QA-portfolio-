@@ -16,7 +16,7 @@
 
 1. Open Postman  
 2. Set method to **GET**  
-3. Enter URL: `https://fakestoreapi.com/products/{id}` (replace `{id}` with a invalid ID (doesn't exist))  
+3. Enter URL: `https://fakestoreapi.com/products/{id}` (replace `{id}` with a invalid ID (doesn't exist)(e.g 9999))  
 4. Click **Send**
 
 ---
