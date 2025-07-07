@@ -27,7 +27,7 @@
 1. Open Postman  
 2. Set method to **POST**  
 3. Enter URL: `https://fakestoreapi.com/products`  
-4. In **Body** tab, select **raw** and set format to **JSON**  
+4. In the **Body** tab, select **raw** and choose **JSON** format 
 5. Paste the following request:  
 ```json
 {
