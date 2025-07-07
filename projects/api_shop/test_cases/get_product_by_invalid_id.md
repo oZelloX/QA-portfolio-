@@ -1,4 +1,4 @@
-# Test Case: GET /products – Invalid ID
+# Test Case: GET /products/Invalid {ID}
 
 **ID:** TC_API_003  
 **Module:** API Shop – Products  
