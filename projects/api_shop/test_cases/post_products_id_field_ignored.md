@@ -1,4 +1,4 @@
- # Test Case: Add a new product – ID Provided in Request (Based on Documentation)
+ # Test Case: Add a New Product – ID Provided in Request (Based on Documentation)
 
 **ID:** TC_API_005  
 **Module:** API Shop – Products  
