@@ -9,7 +9,7 @@
 **Preconditions:**  
 - The API is accessible at `https://fakestoreapi.com/products/{id}`  
 - The user has Postman installed and a working internet connection  
-- Product with ID = 10 exists
+- Product with ID = 5 exists
   
 ---
 
