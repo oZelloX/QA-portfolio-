@@ -1,4 +1,4 @@
-# Test Case: PUT /products/{id}
+# Test Case: Update a Product
 
 **ID:** TC_API_006  
 **Module:** API Shop – Products  
