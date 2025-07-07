@@ -1,4 +1,4 @@
-# Test Case: Get a single product
+# Test Case: Get a Single Product
 
 **ID:** TC_API_002  
 **Module:** API Shop – Products  
