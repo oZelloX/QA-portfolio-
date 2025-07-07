@@ -1,4 +1,4 @@
-# Test Case: Add a new product
+# Test Case: Add a New Product
 
 **ID:** TC_API_004  
 **Module:** API Shop – Products  
