@@ -1,4 +1,4 @@
-# Test Case: Get a single product Invalid {ID}
+# Test Case: Get a Single Product - Invalid {ID}
 
 **ID:** TC_API_003  
 **Module:** API Shop – Products  
