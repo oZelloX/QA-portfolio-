@@ -28,7 +28,7 @@
 2. Set method to **POST**  
 3. Enter URL: `https://fakestoreapi.com/products`  
 4. In the **Body** tab, select **raw** and choose **JSON** format  
-5. Paste the following request body (as shown in the official documentation):  
+5. Paste the following request body:  
 ```json
 {
   "id": 123,
