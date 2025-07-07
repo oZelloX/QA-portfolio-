@@ -18,7 +18,7 @@
 **Preconditions:** 
 - The API is accessible at `https://fakestoreapi.com/products`
 - The user has Postman installed and a working internet connection
-- Valid request body is prepared
+- A valid JSON request body is prepared based on the documentation at https://fakestoreapi.com/docs
 
 ---
 
