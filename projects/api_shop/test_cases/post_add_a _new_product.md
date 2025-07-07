@@ -1,4 +1,4 @@
-# Test Case: POST /products – Add New Product
+# Test Case: Add a new product
 
 **ID:** TC_API_004  
 **Module:** API Shop – Products  
