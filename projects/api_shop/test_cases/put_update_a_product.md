@@ -18,7 +18,19 @@
 1. Open Postman  
 2. Set method to **PUT**  
 3. Enter URL: `https://fakestoreapi.com/products/{id}` (replace `{id}` with a valid ID)
-4. Click **Send**
+4. In **Body** tab, select **raw** and format **JSON**  
+5. Paste the following request body:
+```json
+{
+  "id": 0,
+  "title": "string",
+  "price": 0.1,
+  "description": "string",
+  "category": "string",
+  "image": "http://example.com"
+}
+```
+5. Click **Send**
 
 ---
 
