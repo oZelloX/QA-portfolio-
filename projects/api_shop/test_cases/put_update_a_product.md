@@ -22,11 +22,11 @@
 5. Paste the following request body:
 ```json
 {
-  "title": "string",
-  "price": 0.1,
-  "description": "string",
-  "category": "string",
-  "image": "http://example.com"
+ "title": "USB Flash drive",
+ "price": 50.55,
+ "description": "The best USB Flash Drive",
+ "image": "http://example.com",
+ "category": "Computer"
 }
 ```
 5. Click **Send**
@@ -39,12 +39,12 @@
  
 ```json
 {
-  "id": 0,
-  "title": "string",
-  "price": 0.1,
-  "description": "string",
-  "category": "string",
-  "image": "http://example.com"
+ "id": 5,
+ "title": "USB Flash drive",
+ "price": 50.55,
+ "description": "The best USB Flash Drive",
+ "image": "http://example.com",
+ "category": "Computer"
 }
 ```
 ---
@@ -55,17 +55,17 @@
   
 ```json
 {
-    "id": 5,
-    "title": "USB Flash drive",
-    "price": 50.55,
-    "description": "The best USB Flash Drive",
-    "image": "http://example.com",
-    "category": "Computer"
+ "id": 5,
+ "title": "USB Flash drive",
+ "price": 50.55,
+ "description": "The best USB Flash Drive",
+ "category": "Computer"
+ "image": "http://example.com",
 }
 ```
 ---
 
 **Notes:**  
-- Actual response includes undocumented field `rating` with nested `rate` (float) and `count` (integer)
+
  
 
