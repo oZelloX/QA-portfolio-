@@ -29,7 +29,7 @@
  "category": "Computer"
 }
 ```
-5. Click **Send**
+6. Click **Send**
 
 ---
 
@@ -59,8 +59,8 @@
  "title": "USB Flash drive",
  "price": 50.55,
  "description": "The best USB Flash Drive",
- "category": "Computer"
- "image": "http://example.com",
+ "category": "Computer",
+ "image": "http://example.com"
 }
 ```
 ---
