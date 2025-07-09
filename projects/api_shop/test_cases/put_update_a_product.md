@@ -68,6 +68,7 @@
 **Notes:**  
 - The request body was composed according to the API documentation.
 - The expected result assumes that the server updates and returns the modified data.
+- However, fakestoreapi returns a static predefined object, regardless of the request body.
 - The field order in the response may differ; this is normal behavior in JSON and not a defect.
  
 
