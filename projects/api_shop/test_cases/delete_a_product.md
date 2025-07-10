@@ -1,4 +1,4 @@
-# Test Case: Update a Product
+# Test Case: Delete a Product
 
 **ID:** TC_API_007  
 **Module:** API Shop – Products  
