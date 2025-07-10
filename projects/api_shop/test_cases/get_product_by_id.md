@@ -6,10 +6,11 @@
 **Date:** 2025-07-06  
 **Priority:** High  
 **Type:** Functional  
-**Preconditions:**  
-- The API is accessible at `https://fakestoreapi.com/products/{id}`  
-- The user has Postman installed and a working internet connection  
+**Preconditions:**
 - Product with ID = 10 exists
+- The API is accessible at `https://fakestoreapi.com/products/10`  
+- The user has Postman installed and a working internet connection  
+
   
 ---
 
@@ -17,14 +18,15 @@
 
 1. Open Postman  
 2. Set method to **GET**  
-3. Enter URL: `https://fakestoreapi.com/products/{id}` (replace `{id}` with a valid ID)
+3. Enter URL: `https://fakestoreapi.com/products/10`
 4. Click **Send**
 
 ---
 
 **Expected Result:**  
 - Status code: **200 OK**  
-- Response is a JSON object containing the following fields:
+- Response is a JSON object.  
+- The following is an example of the expected structure, based on API documentation:
  
 ```json
 {
