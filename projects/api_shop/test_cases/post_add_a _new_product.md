@@ -64,6 +64,7 @@
 ---
 
 **Notes:**  
+- The `id` is assigned by the server and may vary between requests.  
+- The `id` field must be a positive integer. Values like decimals or strings are not valid.
 - Although the resource was successfully created, the API returned `200 OK` instead of the expected `201 Created`.  
-- This may violate REST conventions and could be considered for a bug report.
-- The `id` is assigned by the server and may vary between requests.
+- This may violate REST conventions and could be considered for a bug report.  
