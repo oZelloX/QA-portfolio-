@@ -65,7 +65,8 @@
 ---
 
 **Notes:**  
-- The actual response includes multiple product objects.  
-- The expected result shows the structure of a single product as a reference.  
-- All items in the array are expected to follow the same format.  
-- The field `rating`, with nested fields `rate` (float) and `count` (integer), is present in the actual response but not documented in the API specification.
+- The response contains an array of product objects.
+- The expected result provides a sample structure for one product as a reference.
+- Each object is expected to follow the documented format.
+- The rating field is present in the actual response but is not documented.
+- This test confirms that the structure is mostly consistent, but undocumented fields exist.
