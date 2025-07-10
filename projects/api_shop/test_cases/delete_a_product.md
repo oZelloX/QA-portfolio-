@@ -41,7 +41,7 @@
 **Actual Result:**  
 - Status code: **200 OK**  
 - Response body:
-  
+```json
 {
     "id": 7,
     "title": "White Gold Plated Princess",
@@ -58,7 +58,6 @@
 ---
 
 **Notes:**  
-- The request deletes product with ID = 7.
 - fakestoreapi returns a static response even for DELETE requests.
 - The field `rating` is present in the actual response but not documented.
 - The expected result was based on a preliminary GET request to `/products/7` to reflect the actual stored data.
