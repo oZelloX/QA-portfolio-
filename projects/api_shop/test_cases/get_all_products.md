@@ -65,5 +65,7 @@
 ---
 
 **Notes:**  
-- Actual response includes undocumented field `rating`, which contains nested fields `rate` (float) and `count` (integer).
-
+- The actual response includes multiple product objects.  
+- The expected result shows the structure of a single product as a reference.  
+- All items in the array are expected to follow the same format.  
+- The field `rating`, with nested fields `rate` (float) and `count` (integer), is present in the actual response but not documented in the API specification.
