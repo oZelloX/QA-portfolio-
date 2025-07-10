@@ -37,9 +37,15 @@
 
 **Expected Result:**  
 
-- Status code: 201 Created
-- Response body includes the same id value as sent (i.e., "id": 123)
-- All other fields match the request
+- Status code: 201 OK
+{
+  "id": 123,
+  "title": "Test Product",
+  "price": 9.99,
+  "description": "Test description",
+  "category": "test-category",
+  "image": "http://example.com/test.jpg"
+}
 
 ---  
 
@@ -59,9 +65,11 @@
 ```
 
 ---
+ 
+**Notes:**  
+- The API ignores the `id` value provided in the request body and assigns its own, which is standard behavior for RESTful APIs.  
+- However, this contradicts the API documentation, which implies that the `id` field can be manually specified.  
+- The API also returns status code `200 OK` instead of the expected `201 Created`, which is a deviation from REST conventions.  
+- Expected result based on documentation was not met; however, the actual behavior is correct by design.  
+- A bug report will be created to address the misleading documentation and non-standard response code.
 
-**Notes:**
-
-- The API ignores the id value sent in the request and generates its own
-- This contradicts the official documentation, which suggests the id can be provided manually
-- Bug report will be created separately regarding the inconsistency
