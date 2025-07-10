@@ -7,7 +7,7 @@
 **Priority:** Medium  
 **Type:** Negative / Functional  
 **Preconditions:**  
-- The API is accessible at `https://fakestoreapi.com/products/{id}`  
+- The API is accessible at `https://fakestoreapi.com/products/9999`  
 - The user has Postman installed and a working internet connection
 
 ---
@@ -16,14 +16,14 @@
 
 1. Open Postman  
 2. Set method to **GET**  
-3. Enter URL: `https://fakestoreapi.com/products/{id}` (replace `{id}` with an invalid ID that doesn't exist, e.g., `9999`)    
+3. Enter URL: `https://fakestoreapi.com/products/9999`   
 4. Click **Send**
 
 ---
 
 **Expected Result:**  
-- Status code: **404 Not Found** or other error status  
-- Response should contain a clear error message (e.g., `"Product not found"`)
+- Status code: **404 Not Found** 
+- Response should contain an error message like "Product not found"
 
 ---
 
