@@ -59,5 +59,5 @@
 ---
 
 **Notes:**  
-- Actual response includes undocumented field `rating` with nested `rate` (float) and `count` (integer)
- 
+- The expected result reflects the documented structure of a product object.  
+- The actual response includes an additional field `rating`, with nested `rate` (float) and `count` (integer), which is not described in the official documentation. 
