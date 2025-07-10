@@ -24,7 +24,7 @@
 
 **Expected Result:**  
 - Status code: 204 No Content
-- Response body is empty (i.e., no JSON payload returned)
+- Response body is empty, as per standard RESTful DELETE response (no payload expected)
 ---
 
 **Actual Result:**  
