@@ -38,6 +38,7 @@
 **Expected Result:**  
 
 - Status code: 201 OK
+```json
 {
   "id": 123,
   "title": "Test Product",
@@ -46,7 +47,7 @@
   "category": "test-category",
   "image": "http://example.com/test.jpg"
 }
-
+```
 ---  
 
 **Actual Result:**  
