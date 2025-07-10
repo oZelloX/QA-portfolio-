@@ -35,7 +35,7 @@ null
 ```
 
 **Notes:**  
-
-- API returns 200 OK with null for a non-existent product ID  
-- This may be misleading and is a potential issue — should return a proper error status and message  
-- Bug report will be created separately  
+- The API returns status code 200 OK and body `null` when a non-existent product ID is requested.  
+- This behavior may be misleading and does not follow standard REST practices.  
+- A proper error status (e.g., 404 Not Found) and message should be returned instead.  
+- A bug report will be created separately.
