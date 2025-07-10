@@ -23,19 +23,8 @@
 ---
 
 **Expected Result:**  
-- Status code: **200 OK**  
-- Response is a JSON object containing the following fields:
- 
-```json
-{
- "id": 7,
- "title": "White Gold Plated Princess",
- "price": 9.99,
- "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
- "category": "jewelery",
- "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
-}
-```
+- Status code: 204 No Content
+- Response body is empty (i.e., no JSON payload returned)
 ---
 
 **Actual Result:**  
@@ -58,10 +47,9 @@
 ---
 
 **Notes:**  
-- fakestoreapi returns a static response even for DELETE requests.
-- The field `rating` is present in the actual response but not documented.
-- The expected result was based on a preliminary GET request to `/products/7` to reflect the actual stored data.
-- JSON object key order and presence of undocumented fields may vary; this is not a defect.
+- According to RESTful API standards, a successful DELETE should return 204 No Content with an empty body.
+- fakestoreapi instead returns 200 OK with a full copy of the product, which is misleading.
+- Test case retained as-is to document actual behavior and highlight non-standard API behavior.
 
  
 
