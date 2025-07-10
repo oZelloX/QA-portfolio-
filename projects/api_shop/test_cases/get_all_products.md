@@ -24,10 +24,10 @@
 **Expected Result:**  
 - Status code: **200 OK**  
 - Response is a JSON array of product objects  
-- Each object contains the following fields:
+- Each object follows the documented structure. For example:
 
 ```json
-[
+
   {
     "id": 0,
     "title": "string",
@@ -36,7 +36,7 @@
     "category": "string",
     "image": "http://example.com"
   }
-]
+
 ```
 
 ---
@@ -46,8 +46,8 @@
 - Response includes multiple valid product objects with expected structure:
 
 ```json
-[
-  {
+
+   {
     "id": 1,
     "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
     "price": 109.95,
@@ -58,8 +58,9 @@
       "rate": 3.9,
       "count": 120
     }
-  }
-]
+   }
+  
+
 ```
 
 ---
@@ -68,5 +69,5 @@
 - The response contains an array of product objects.
 - The expected result provides a sample structure for one product as a reference.
 - Each object is expected to follow the documented format.
-- The rating field is present in the actual response but is not documented.
+- Rating field with nested fields rate (float) and count (integer), which is not documented in the official API specification.
 - This test confirms that the structure is mostly consistent, but undocumented fields exist.
