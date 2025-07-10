@@ -36,12 +36,12 @@
 - Response contains newly created product with assigned ID:
 ```json
 {
-  "id": 0,
-  "title": "string",
-  "price": 0.1,
-  "description": "string",
-  "category": "string",
-  "image": "http://example.com"
+  "id": <number>,
+  "title": "Wireless Mouse",
+  "price": 29.99,
+  "description": "Compact ergonomic design",
+  "image": "http://example.com/mouse.jpg",
+  "category": "electronics"
 }
 ```
 
@@ -66,3 +66,4 @@
 **Notes:**  
 - Although the resource was successfully created, the API returned `200 OK` instead of the expected `201 Created`.  
 - This may violate REST conventions and could be considered for a bug report.
+- The `id` is assigned by the server and may vary between requests.
