@@ -23,8 +23,8 @@
 ---
 
 **Expected Result:**  
-- Status code: **404 Not Found**  
-- Or response body is `null`
+- Status code: **404 Not Found** 
+- Response should contain an error message like "Product not found"
 
 ---
 
