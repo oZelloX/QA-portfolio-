@@ -1,4 +1,4 @@
-# Bug Report: GET /products – Invalid ID returns 200 OK
+# Bug Report: POST / API accepts empty request body when creating a new product
 
 **ID:** BUG_API_004  
 **Module:** API Shop – Products  
