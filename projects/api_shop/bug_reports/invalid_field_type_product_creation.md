@@ -1,4 +1,4 @@
-# Bug Report: POST / API accepts empty request body when creating a new product
+# Bug Report: API returns HTML error page instead of JSON when invalid field type is used in POST /products
 
 **ID:** BUG_API_005  
 **Module:** API Shop – Products  
@@ -21,7 +21,7 @@
   "category": "20",
   "image": "http://example.com/mouse.jpg"
 }
-
+```
 ---
 
 **Preconditions:** 
@@ -48,9 +48,10 @@
 ---
 
 **Actual Result:**  
-- Status code: **200 OK**  
+- Status code: **400 Bad Request**  
 - Response is returned as an HTML error page:   
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,7 +62,7 @@
 <pre>Bad Request</pre>
 </body>
 </html>
-
+```
 
 
 
