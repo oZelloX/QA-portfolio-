@@ -3,7 +3,7 @@
 **ID:** TC_API_009  
 **Module:** API Shop – Products  
 **Designed by:** Aleksandrs Goldobenkovs  
-**Date:** 2025-07-013  
+**Date:** 2025-07-13  
 **Priority:** High  
 **Type:** Functional  
 **Preconditions:**  
