@@ -24,7 +24,7 @@
   "title": "Wireless Mouse",
   "price": Very low price,
   "description": "Compact ergonomic design",
-  "category": "20",
+  "category": "electronics",
   "image": "http://example.com/mouse.jpg"
 }
 ```
